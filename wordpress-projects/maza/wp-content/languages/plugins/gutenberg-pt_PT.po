@@ -1,0 +1,528 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-22 11:19:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/full-site-editing/templates.php:79
+msgid "Themes"
+msgstr "Temas"
+
+#: lib/full-site-editing/default-template-types.php:77
+msgctxt "Template name"
+msgid "404"
+msgstr "404"
+
+#: lib/full-site-editing/class-gutenberg-rest-templates-controller.php:89
+#: lib/class-wp-rest-menu-items-controller.php:92
+msgid "Whether to bypass Trash and force deletion."
+msgstr "Se deve ignorar o lixo e forçar a eliminação."
+
+#: lib/class-wp-rest-menu-items-controller.php:58
+msgid "The password for the post if it is password protected."
+msgstr "A senha para o conteúdo, caso esteja protegido por senha."
+
+#: lib/full-site-editing/templates-utils.php:16
+msgid "Description"
+msgstr "Descrição"
+
+#: lib/compat.php:161
+msgid "Filter reusable blocks list"
+msgstr "Filtrar lista de blocos reutilizáveis"
+
+#: lib/compat.php:160
+msgid "No reusable blocks found in Trash."
+msgstr "Nenhum bloco reutilizável encontrado no lixo."
+
+#: lib/compat.php:159
+msgid "No reusable blocks found."
+msgstr "Nenhum bloco reutilizável encontrado."
+
+#: build/block-library/blocks/site-logo.php:76
+msgid "Site logo."
+msgstr "Logótipo do site."
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:115
+#: build/block-library/blocks/rss.php:60
+msgid "by %s"
+msgstr "por %s"
+
+#: lib/block-patterns.php:14
+msgid "Query"
+msgstr "Consulta"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation.php:343 build/edit-navigation/index.js:7
+#: build/edit-post/index.js:7 build/block-editor/index.js:10
+#: build/edit-widgets/index.js:7
+msgid "Content"
+msgstr "Conteúdo"
+
+#. translators: accessibility text for the top bar landmark region.
+#: lib/full-site-editing/template-parts.php:184
+#: build/edit-navigation/index.js:5 build/edit-post/index.js:5
+#: build/edit-widgets/index.js:5
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: lib/class-wp-rest-menu-items-controller.php:1105
+msgid "Sort collection by object attribute."
+msgstr "Ordenar colecção por atributo de objecto."
+
+#: lib/class-wp-rest-menu-items-controller.php:1098
+msgid "Order sort attribute ascending or descending."
+msgstr "Ordem ascendente ou descendente para o atributo de ordenação."
+
+#: lib/class-wp-rest-menu-items-controller.php:1093
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "Limita conjunto de resultados a conteúdos com um valor menu_order específico."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1059
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "Os termos atribuídos ao objecto na taxonomia %s."
+
+#: lib/class-wp-rest-menu-items-controller.php:911
+msgid "A named status for the object."
+msgstr "O nome do estado para o objecto."
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "HTML title for the object, transformed for display."
+msgstr "Título HTML para o objecto, transformado para exibição."
+
+#: lib/class-wp-rest-menu-items-controller.php:873
+msgid "Title for the object, as it exists in the database."
+msgstr "Título para o objecto, tal como existe na base de dados."
+
+#: lib/class-wp-rest-menu-items-controller.php:606
+msgid "Invalid URL."
+msgstr "URL inválido."
+
+#: lib/class-wp-rest-menu-items-controller.php:531
+msgid "Invalid menu ID."
+msgstr "ID de menu inválido."
+
+#: lib/class-wp-rest-menu-items-controller.php:506
+msgid "Invalid post type."
+msgstr "Tipo de conteúdo inválido."
+
+#: lib/class-wp-rest-menu-items-controller.php:495
+msgid "Invalid post ID."
+msgstr "ID de artigo inválido."
+
+#: lib/class-wp-rest-menu-items-controller.php:348
+msgid "The post cannot be deleted."
+msgstr "O artigo não pode ser eliminado."
+
+#: lib/class-wp-rest-menu-items-controller.php:174
+msgid "Cannot create existing post."
+msgstr "Não é possível criar conteúdo existente."
+
+#: lib/class-wp-rest-customizer-nonces.php:51
+#: lib/class-wp-rest-menu-items-controller.php:158
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Não tem permissões para editar conteúdos deste tipo."
+
+#: lib/class-wp-rest-menus-controller.php:460
+msgid "The term cannot be deleted."
+msgstr "Não é possível eliminar o termo."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:450
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "Termos sem suporte para mover para o lixo. Defina '%s' para eliminar."
+
+#: lib/class-wp-rest-menus-controller.php:270
+#: lib/class-wp-rest-menus-controller.php:379
+msgid "Parent term does not exist."
+msgstr "O termo superior não existe."
+
+#: lib/class-wp-rest-menus-controller.php:264
+#: lib/class-wp-rest-menus-controller.php:373
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "Não é possível definir termo superior, a taxonomia não é hierárquica."
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "Não tem permissão para editar este termo."
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "Não tem permissões para editar os termos desta taxonomia."
+
+#: lib/class-wp-theme-json-resolver-gutenberg.php:433
+msgid "Global Styles"
+msgstr "Estilos globais"
+
+#: lib/full-site-editing/templates.php:80
+#: lib/full-site-editing/templates-utils.php:18 build/blocks/index.js:1
+msgid "Theme"
+msgstr "Tema"
+
+#: lib/full-site-editing/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: lib/experiments-page.php:45 build/edit-navigation/index.js:32
+msgid "Navigation"
+msgstr "Navegação"
+
+#: lib/full-site-editing/templates.php:35
+msgid "Templates list"
+msgstr "Lista de modelos"
+
+#: lib/full-site-editing/templates.php:34
+msgid "Templates list navigation"
+msgstr "Navegação da lista de modelos"
+
+#: lib/full-site-editing/templates.php:33
+msgid "Filter templates list"
+msgstr "Filtrar lista de modelos"
+
+#: lib/full-site-editing/templates.php:32
+msgid "Uploaded to this template"
+msgstr "Carregado neste modelo"
+
+#: lib/full-site-editing/templates.php:31
+msgid "Insert into template"
+msgstr "Inserir no modelo"
+
+#: lib/full-site-editing/templates.php:30
+msgid "Template archives"
+msgstr "Arquivo de modelos"
+
+#: lib/full-site-editing/templates.php:29
+msgid "No templates found in Trash."
+msgstr "Nenhum modelo encontrado no lixo."
+
+#: lib/full-site-editing/templates.php:28
+msgid "No templates found."
+msgstr "Nenhum modelo encontrado."
+
+#: lib/full-site-editing/templates.php:27
+msgid "Parent Template:"
+msgstr "Modelo superior:"
+
+#: lib/full-site-editing/templates.php:26
+msgid "Search Templates"
+msgstr "Pesquisar modelos"
+
+#: lib/full-site-editing/templates.php:25
+msgid "All Templates"
+msgstr "Todos os modelos"
+
+#: lib/full-site-editing/templates.php:24
+msgid "View Template"
+msgstr "Ver modelo"
+
+#: lib/full-site-editing/templates.php:23
+msgid "Edit Template"
+msgstr "Editar modelo"
+
+#: lib/full-site-editing/templates.php:22
+msgid "New Template"
+msgstr "Novo modelo"
+
+#: lib/full-site-editing/templates.php:21
+msgid "Add New Template"
+msgstr "Adicionar novo modelo"
+
+#: lib/full-site-editing/templates.php:20
+msgctxt "Template"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: lib/full-site-editing/templates.php:19
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "Modelos"
+
+#: lib/full-site-editing/templates.php:18 build/edit-post/index.js:21
+#: build/edit-post/index.js:33 build/edit-post/index.js:34
+msgid "Template"
+msgstr "Modelo"
+
+#: lib/full-site-editing/template-loader.php:166
+msgid "No matching template found"
+msgstr "Nenhum modelo correspondente encontrado"
+
+#: lib/full-site-editing/templates.php:17
+msgid "Templates"
+msgstr "Modelos"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:28
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "O seu site ainda não tem qualquer %s, por isso não há nada para apresentar."
+
+#. translators: accessibility text for the footer landmark region.
+#: lib/full-site-editing/template-parts.php:194
+#: build/edit-navigation/index.js:15 build/edit-post/index.js:15
+#: build/edit-widgets/index.js:15
+msgid "Footer"
+msgstr "Rodapé"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Ocorreu um erro. A causa provável é o feed estar offline. Tente mais tarde."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Erro RSS:"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-editor/index.js:41
+msgid "Search"
+msgstr "Pesquisar"
+
+#: lib/compat/wordpress-5.8/block-editor.php:183 build/block-editor/index.js:1
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: lib/compat/wordpress-5.8/block-editor.php:186 build/block-editor/index.js:1
+msgid "Full Size"
+msgstr "Tamanho original"
+
+#: lib/full-site-editing/default-template-types.php:65
+#: build/block-editor/index.js:67 build/blocks/index.js:1
+#: build/core-data/index.js:1
+msgid "Media"
+msgstr "Multimédia"
+
+#: lib/full-site-editing/template-parts.php:174 build/edit-post/index.js:21
+msgid "General"
+msgstr "Geral"
+
+#: lib/compat/wordpress-5.8/block-editor.php:184 build/block-editor/index.js:1
+#: build/block-editor/index.js:8 build/components/index.js:11
+msgid "Medium"
+msgstr "Médio"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "Nenhum arquivo para mostrar."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Paisagem bonita"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Obrigado por testar o Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Ajude a criar o Gutenberg"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "A comunidade WordPress"
+
+#: post-content.php:159
+msgid "Code is Poetry"
+msgstr "Código é poesia"
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "A acessibilidade é importante &mdash; não se esqueça do atributo de texto alternativo da imagem"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Edição visual"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "E <em>listas</em> como esta :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Blocos de layout, como botões, imagens hero, separadores, etc."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Incorporações, como YouTube, tweets ou outros conteúdos de WordPress."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galerias"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Imagens e vídeos"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Texto e títulos"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Uma imagem vale mais do que mil palavras"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... como este, que está alinhado à direita."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "O que está a ler é um <strong>bloco de texto</strong>, o mais básico de todos. O bloco de texto tem os seus próprios controlos para ser movido livremente ao longo de todo o conteúdo..."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Bem-vindo ao editor Gutenberg"
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "O título para o objecto."
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "Identificador único para o objecto."
+
+#: lib/init.php:66
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: lib/init.php:63 lib/init.php:64
+msgid "Support"
+msgstr "Suporte"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "Nenhum comentário para mostrar."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s em %2$s"
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "Seleccionar artigo"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "Seleccionar semana"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "Seleccionar dia"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "Seleccionar mês"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "Seleccionar ano"
+
+#: build/block-library/blocks/archives.php:27
+msgid "Archives"
+msgstr "Arquivo"
+
+#: lib/compat/wordpress-5.8/block-editor.php:185 build/block-editor/index.js:1
+#: build/components/index.js:11
+msgid "Large"
+msgstr "Grande"
+
+#: lib/class-wp-rest-menu-items-controller.php:487
+msgid "Invalid term ID."
+msgstr "ID de termo inválido."
+
+#: lib/class-wp-rest-menu-items-controller.php:919
+msgid "The ID for the parent of the object."
+msgstr "O ID do superior do objecto."
+
+#: lib/init.php:102
+msgid "beta"
+msgstr "beta"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:5
+msgid "Status"
+msgstr "Estado"
+
+#: lib/block-patterns.php:19 build/editor/index.js:5
+msgid "Standard"
+msgstr "Padrão"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Menu Settings Sidebar tab.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/navigation.php:91 lib/navigation.php:96 lib/class-wp-widget-block.php:49
+#: build/edit-navigation/index.js:25 build/edit-navigation/index.js:26
+#: build/edit-navigation/index.js:27 build/edit-post/index.js:33
+#: build/edit-post/index.js:34 build/edit-widgets/index.js:20
+msgid "Block"
+msgstr "Bloco"
+
+#: build/block-library/blocks/latest-posts.php:103
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31 build/editor/index.js:23
+#: build/edit-post/index.js:34 build/core-data/index.js:1
+msgid "(no title)"
+msgstr "(sem título)"
+
+#: lib/init.php:38 lib/init.php:39 build/customize-widgets/index.js:8
+#: build/edit-widgets/index.js:26 build/blocks/index.js:1
+#: build/core-data/index.js:1
+msgid "Widgets"
+msgstr "Widgets"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "A publicar desde 1440. Este é o plugin do desenvolvimento do novo editor de blocos do core."
+
+#: lib/class-wp-rest-widgets-controller.php:623
+msgid "Unique identifier for the widget."
+msgstr "Identificador único do widget."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg Team"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/editor/index.js:27
+#: build/components/index.js:5
+msgid "Slug"
+msgstr "Slug"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:30
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "O Gutenberg requer o WordPress %s ou superior para funcionar correctamente. Por favor actualize o WordPress antes de activar o Gutenberg."
+
+#: lib/init.php:70 lib/init.php:71
+msgid "Documentation"
+msgstr "Documentação"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "Demonstração"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Seleccionar categoria"
