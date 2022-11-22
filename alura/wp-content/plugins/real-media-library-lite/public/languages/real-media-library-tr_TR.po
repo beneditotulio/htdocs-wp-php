@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: 2020-07-22 12:47+0200\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: EuroNur <euronur@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+
+#: rml_gutenberg.lite.js:923 rml_gutenberg.pro.js:923
+msgid "Attachment Page"
+msgstr "Ek Sayfa"
+
+#: rml_gutenberg.lite.js:926 rml_gutenberg.pro.js:926
+msgid "Media File"
+msgstr "Medya Dosyası"
+
+#: rml_gutenberg.lite.js:929 rml_gutenberg.pro.js:929
+msgid "None"
+msgstr "Yok"
+
+#: rml_gutenberg.lite.js:1082 rml_gutenberg.pro.js:1082
+msgid "Gallery Settings"
+msgstr "Galeri Ayarları"
+
+#: rml_gutenberg.lite.js:1087 rml_gutenberg.pro.js:1087
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: rml_gutenberg.lite.js:1093 rml_gutenberg.pro.js:1093
+msgid "Crop Images"
+msgstr "Görüntüleri Kırp"
+
+#: rml_gutenberg.lite.js:1097 rml_gutenberg.pro.js:1097
+msgid "Caption"
+msgstr "Altyazı"
+
+#: rml_gutenberg.lite.js:1101 rml_gutenberg.pro.js:1101
+msgid "Link To"
+msgstr "Link"

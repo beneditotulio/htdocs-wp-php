@@ -1,0 +1,21 @@
+.wpdevart_upload_image{
+	display: inline-block;
+	float: left;
+	margin-right: 1px !important;
+	margin-top: 1px !important;
+	height: 26px !important;
+	line-height:24px !important;
+}
+.wpdevart_upload_input {
+	display: inline-block;
+	float: left;
+	width: 230px;
+	margin-right: 3px;
+}
+.cont_button_uploaded_img{
+	display: inline-block;
+	float: left;
+	max-width: 52px;
+	max-height: 27px;
+	margin-top: 1px;
+}

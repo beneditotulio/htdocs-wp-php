@@ -1,0 +1,4137 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Hybrid Composer\n"
+"POT-Creation-Date: 2017-11-04 16:28+0100\n"
+"PO-Revision-Date: 2017-11-04 16:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-settings-page.php:197 admin/composer-side.php:833
+msgid "Documentation"
+msgstr ""
+
+#: admin/admin-settings-page.php:201
+msgid "Main settings"
+msgstr ""
+
+#: admin/admin-settings-page.php:202 admin/admin-settings-page.php:491
+msgid "Layout"
+msgstr ""
+
+#: admin/admin-settings-page.php:203 components/containers.php:438
+#: components/post_types.php:576 components/sections.php:215
+#: headers/menu-side.php:133
+msgid "Menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:204 admin/components/others.php:1668
+#: admin/composer-side.php:352
+msgid "Footer"
+msgstr ""
+
+#: admin/admin-settings-page.php:205 index.php:885
+msgid "Lists"
+msgstr ""
+
+#: admin/admin-settings-page.php:206
+msgid "Woocommerce"
+msgstr ""
+
+#: admin/admin-settings-page.php:207
+msgid "Page titles"
+msgstr ""
+
+#: admin/admin-settings-page.php:208
+msgid "Customizations"
+msgstr ""
+
+#: admin/admin-settings-page.php:209
+msgid "Social and API"
+msgstr ""
+
+#: admin/admin-settings-page.php:210
+msgid "Demo import"
+msgstr ""
+
+#: admin/admin-settings-page.php:217
+msgid "Logo"
+msgstr ""
+
+#: admin/admin-settings-page.php:218
+msgid "Select an image file for your main logo."
+msgstr ""
+
+#: admin/admin-settings-page.php:233
+msgid "Secondary logo"
+msgstr ""
+
+#: admin/admin-settings-page.php:234
+msgid ""
+"Secondary logo is used on fixed menu, transparent menu and middle logo menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:249
+msgid "Retina logo"
+msgstr ""
+
+#: admin/admin-settings-page.php:250 admin/admin-settings-page.php:266
+msgid "Retina logo is showed only on high resolution displays."
+msgstr ""
+
+#: admin/admin-settings-page.php:265
+msgid "Secondary retina logo"
+msgstr ""
+
+#: admin/admin-settings-page.php:281
+msgid "Favicon"
+msgstr ""
+
+#: admin/admin-settings-page.php:282
+msgid "Favicon top browser tab at 16px x 16px."
+msgstr ""
+
+#: admin/admin-settings-page.php:297
+msgid "Logo margin top"
+msgstr ""
+
+#: admin/admin-settings-page.php:298
+msgid "Margin top of the logo."
+msgstr ""
+
+#: admin/admin-settings-page.php:309
+msgid "Font family"
+msgstr ""
+
+#: admin/admin-settings-page.php:311
+msgid ""
+"Select the main font family for your website. The fonts are provided by "
+"Google Fonts, you can preview the fonts from "
+msgstr ""
+
+#: admin/admin-settings-page.php:355
+msgid "Font family 2"
+msgstr ""
+
+#: admin/admin-settings-page.php:357
+msgid "Select the secondary font family for your website."
+msgstr ""
+
+#: admin/admin-settings-page.php:400
+msgid "Icon family"
+msgstr ""
+
+#: admin/admin-settings-page.php:401
+msgid ""
+"Select the icon family for your website, available on Hybrid Composer "
+"components."
+msgstr ""
+
+#: admin/admin-settings-page.php:420
+msgid "Main color"
+msgstr ""
+
+#: admin/admin-settings-page.php:421
+msgid "Main color of your website."
+msgstr ""
+
+#: admin/admin-settings-page.php:434
+msgid "Hover color"
+msgstr ""
+
+#: admin/admin-settings-page.php:435
+msgid "Hover color of your website."
+msgstr ""
+
+#: admin/admin-settings-page.php:448 admin/admin-settings-page.php:462
+#: admin/components/containers.php:97 admin/components/others.php:811
+msgid "Color"
+msgstr ""
+
+#: admin/admin-settings-page.php:449 admin/admin-settings-page.php:463
+msgid "Additional color, used in some skin."
+msgstr ""
+
+#: admin/admin-settings-page.php:476
+msgid "Smooth scroll"
+msgstr ""
+
+#: admin/admin-settings-page.php:477
+msgid "Add a nice moving scroll effect on page scroll."
+msgstr ""
+
+#: admin/admin-settings-page.php:492
+msgid "Set the site layout."
+msgstr ""
+
+#: admin/admin-settings-page.php:509
+msgid "Boxed layout background"
+msgstr ""
+
+#: admin/admin-settings-page.php:510
+msgid ""
+"Add a background to all the pages of your website. *Supported only for boxed "
+"layout."
+msgstr ""
+
+#: admin/admin-settings-page.php:532
+msgid "Site width"
+msgstr ""
+
+#: admin/admin-settings-page.php:533
+msgid "Set the overall site width in px."
+msgstr ""
+
+#: admin/admin-settings-page.php:544
+msgid "Section top \\ bottom padding"
+msgstr ""
+
+#: admin/admin-settings-page.php:545
+msgid "Set the top \\ bottom padding for page sections."
+msgstr ""
+
+#: admin/admin-settings-page.php:556
+msgid "Full width left \\ right padding"
+msgstr ""
+
+#: admin/admin-settings-page.php:557
+msgid "Set the left \\ right padding for full width sections."
+msgstr ""
+
+#: admin/admin-settings-page.php:568
+msgid "Column margins"
+msgstr ""
+
+#: admin/admin-settings-page.php:569
+msgid "Set the top \\ bottom margins for all column sizes."
+msgstr ""
+
+#: admin/admin-settings-page.php:580
+msgid "Title and elements margins"
+msgstr ""
+
+#: admin/admin-settings-page.php:581
+msgid ""
+"Set the bottom margins for some element like the titles and the text blocks."
+msgstr ""
+
+#: admin/admin-settings-page.php:592
+msgid "Left sidebar width"
+msgstr ""
+
+#: admin/admin-settings-page.php:593
+msgid "Set the width of the left sidebar."
+msgstr ""
+
+#: admin/admin-settings-page.php:613
+msgid "Right sidebar width"
+msgstr ""
+
+#: admin/admin-settings-page.php:614
+msgid "Set the width of the right sidebar."
+msgstr ""
+
+#: admin/admin-settings-page.php:634
+msgid "RTL - Right To Left"
+msgstr ""
+
+#: admin/admin-settings-page.php:635
+msgid "Enable the right to left layout."
+msgstr ""
+
+#: admin/admin-settings-page.php:646 admin/composer-side.php:845
+msgid "Featured image"
+msgstr ""
+
+#: admin/admin-settings-page.php:647
+msgid "Show the featured image on pages and post types."
+msgstr ""
+
+#: admin/admin-settings-page.php:661
+msgid "Menu type"
+msgstr ""
+
+#: admin/admin-settings-page.php:662
+msgid "Select the menu type."
+msgstr ""
+
+#: admin/admin-settings-page.php:687
+msgid "Menu animation"
+msgstr ""
+
+#: admin/admin-settings-page.php:688
+msgid "Animation on hover of menu dropdown items."
+msgstr ""
+
+#: admin/admin-settings-page.php:717
+msgid "Transparent menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:718
+msgid "Set transparent style for your menu."
+msgstr ""
+
+#: admin/admin-settings-page.php:729
+msgid "Hamburger menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:730
+msgid "Hamburger menu button for side menus. *Only for side menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:741
+msgid "Lateral dropdown"
+msgstr ""
+
+#: admin/admin-settings-page.php:742
+msgid "Lateral dropdown layout for side menus. *Only for side menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:753
+msgid "Wide menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:754
+msgid "Full width menu layout. *Only for horizontal menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:765
+msgid "One page"
+msgstr ""
+
+#: admin/admin-settings-page.php:766
+msgid "Activate it for one page and fullPage websites."
+msgstr ""
+
+#: admin/admin-settings-page.php:777
+msgid "Fixed top"
+msgstr ""
+
+#: admin/admin-settings-page.php:778
+msgid "Menu is always visible on top. *Only for horizontal menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:789 admin/admin-settings-page.php:1003
+msgid "Search box"
+msgstr ""
+
+#: admin/admin-settings-page.php:790
+msgid "Show search box on right side of menu."
+msgstr ""
+
+#: admin/admin-settings-page.php:801
+msgid "Search button"
+msgstr ""
+
+#: admin/admin-settings-page.php:802
+msgid "Show a search button on right side of menu."
+msgstr ""
+
+#: admin/admin-settings-page.php:813 admin/admin-settings-page.php:1015
+#: admin/admin-settings-page.php:1076
+msgid "Social icons"
+msgstr ""
+
+#: admin/admin-settings-page.php:814 admin/admin-settings-page.php:1016
+msgid "Show the social icons, you can set the icons on Social and API tab."
+msgstr ""
+
+#: admin/admin-settings-page.php:825 admin/components/containers.php:699
+#: admin/components/containers.php:1263 admin/components/containers.php:1870
+#: admin/components/post_types.php:234 admin/components/post_types.php:467
+msgid "Centered"
+msgstr ""
+
+#: admin/admin-settings-page.php:826
+msgid "Set center menu."
+msgstr ""
+
+#: admin/admin-settings-page.php:837
+msgid "Full width mega menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:838
+msgid ""
+"Set full width sizes for the dropdown mega menu. *Only for horizontal menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:849
+msgid "Columns top padding"
+msgstr ""
+
+#: admin/admin-settings-page.php:850
+msgid "Top padding of the columns of the mega menu. *Only for mega menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:861
+msgid "WPML Lan menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:862
+msgid ""
+"Show the WPML language selector on the menu. You musy install and activate "
+"the WPML plugin."
+msgstr ""
+
+#: admin/admin-settings-page.php:873 admin/components/containers.php:1723
+#: admin/components/others.php:2267 admin/components/post_types.php:357
+#: admin/composer-side.php:295
+msgid "Menu position"
+msgstr ""
+
+#: admin/admin-settings-page.php:874
+msgid "Menu position of horizontal menus. *Only for horizontal menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:883 admin/components/containers.php:93
+#: admin/components/containers.php:1078 admin/components/containers.php:1725
+#: admin/components/containers.php:2052 admin/components/others.php:220
+#: admin/components/others.php:288 admin/components/others.php:332
+#: admin/components/others.php:340 admin/components/others.php:392
+#: admin/components/others.php:472 admin/components/others.php:750
+#: admin/components/others.php:876 admin/components/others.php:933
+#: admin/components/others.php:1127 admin/components/others.php:1260
+#: admin/components/others.php:1896 admin/components/others.php:1973
+#: admin/components/others.php:2270 admin/components/post_types.php:359
+#: admin/components/post_types.php:787 admin/components/post_types.php:884
+#: admin/components/sections.php:309 admin/components/sections.php:337
+#: admin/composer-side.php:298 admin/composer-side.php:330
+msgid "Left"
+msgstr ""
+
+#: admin/admin-settings-page.php:884 admin/components/containers.php:92
+#: admin/components/containers.php:1079 admin/components/containers.php:1727
+#: admin/components/containers.php:2053 admin/components/others.php:221
+#: admin/components/others.php:290 admin/components/others.php:333
+#: admin/components/others.php:341 admin/components/others.php:393
+#: admin/components/others.php:473 admin/components/others.php:751
+#: admin/components/others.php:877 admin/components/others.php:934
+#: admin/components/others.php:1128 admin/components/others.php:1262
+#: admin/components/others.php:1897 admin/components/others.php:1974
+#: admin/components/others.php:2271 admin/components/post_types.php:361
+#: admin/components/post_types.php:788 admin/components/post_types.php:885
+#: admin/components/sections.php:310 admin/components/sections.php:338
+#: admin/composer-side.php:297 admin/composer-side.php:329
+msgid "Right"
+msgstr ""
+
+#: admin/admin-settings-page.php:892
+msgid "Top logo"
+msgstr ""
+
+#: admin/admin-settings-page.php:893
+msgid ""
+"Show the logo above the menu, on top of the page. *Only for middle logo menu."
+msgstr ""
+
+#: admin/admin-settings-page.php:904
+msgid "Top icons"
+msgstr ""
+
+#: admin/admin-settings-page.php:905
+msgid ""
+"Change the icons position of icons menu from left to top. *Only for icons "
+"menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:916
+msgid "Custom area content"
+msgstr ""
+
+#: admin/admin-settings-page.php:917 admin/admin-settings-page.php:1182
+#: admin/admin-settings-page.php:1192 admin/admin-settings-page.php:1202
+msgid ""
+"Insert every HTML you want, you can copy the code blocks of framework-y.com "
+"and paste theme here."
+msgstr ""
+
+#: admin/admin-settings-page.php:928
+msgid "Middle box content"
+msgstr ""
+
+#: admin/admin-settings-page.php:929
+msgid ""
+"Insert every HTML you want, you can copy the code blocks of framework-y.com "
+"and paste theme here. *Only for middle box menus"
+msgstr ""
+
+#: admin/admin-settings-page.php:938
+msgid "Menu design settings"
+msgstr ""
+
+#: admin/admin-settings-page.php:941
+msgid "Logo height"
+msgstr ""
+
+#: admin/admin-settings-page.php:942
+msgid "Set the main logo height of menu. In pixels."
+msgstr ""
+
+#: admin/admin-settings-page.php:953
+msgid "Menu height"
+msgstr ""
+
+#: admin/admin-settings-page.php:954
+msgid "Set the menu height. *Only for horizontal menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:965
+msgid "Menu margin left"
+msgstr ""
+
+#: admin/admin-settings-page.php:966
+msgid "Menu margin left, use this option for centered logo menus."
+msgstr ""
+
+#: admin/admin-settings-page.php:975
+msgid "Top mini menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:978
+msgid "Activate top menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:979
+msgid "If activate the main menu show a secondary menu bar on top."
+msgstr ""
+
+#: admin/admin-settings-page.php:991
+msgid "Hide on scroll"
+msgstr ""
+
+#: admin/admin-settings-page.php:992
+msgid "Hide the top menu on page scroll."
+msgstr ""
+
+#: admin/admin-settings-page.php:1004
+msgid "Show the search box on right."
+msgstr ""
+
+#: admin/admin-settings-page.php:1027
+msgid "WPML language menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:1028
+msgid ""
+"Show the WPML language selector on the menu. You musy install and activate "
+"the WPML plugin.."
+msgstr ""
+
+#: admin/admin-settings-page.php:1039
+msgid "Custom content"
+msgstr ""
+
+#: admin/admin-settings-page.php:1040
+msgid ""
+"Custom content of the top menu. Insert every HTML you want, you can copy the "
+"code blocks of framework-y.com and paste theme here."
+msgstr ""
+
+#: admin/admin-settings-page.php:1056
+msgid "Footer type"
+msgstr ""
+
+#: admin/admin-settings-page.php:1057
+msgid "Choose the footer type."
+msgstr ""
+
+#: admin/admin-settings-page.php:1077
+msgid ""
+"Show the social icons on the footer, you set the icons on Social and API tab."
+msgstr ""
+
+#: admin/admin-settings-page.php:1088 admin/components/containers.php:238
+#: admin/components/containers.php:497
+msgid "CSS classes"
+msgstr ""
+
+#: admin/admin-settings-page.php:1089
+msgid "Insert the css classes to apply to the footer, separated by spaces."
+msgstr ""
+
+#: admin/admin-settings-page.php:1100
+msgid "Footer height"
+msgstr ""
+
+#: admin/admin-settings-page.php:1101
+msgid "Set the footer height."
+msgstr ""
+
+#: admin/admin-settings-page.php:1112
+msgid "Wide"
+msgstr ""
+
+#: admin/admin-settings-page.php:1113
+msgid "Set full width footer."
+msgstr ""
+
+#: admin/admin-settings-page.php:1124
+msgid "Columns layout"
+msgstr ""
+
+#: admin/admin-settings-page.php:1125
+msgid "Set the layout of the footer."
+msgstr ""
+
+#: admin/admin-settings-page.php:1146
+msgid "Scroll top button"
+msgstr ""
+
+#: admin/admin-settings-page.php:1147
+msgid "Show the scroll to top button on bottom right position."
+msgstr ""
+
+#: admin/admin-settings-page.php:1165
+msgid "Footer background"
+msgstr ""
+
+#: admin/admin-settings-page.php:1166
+msgid "Add a background image for the footer."
+msgstr ""
+
+#: admin/admin-settings-page.php:1181
+msgid "Left area"
+msgstr ""
+
+#: admin/admin-settings-page.php:1191
+msgid "Center area"
+msgstr ""
+
+#: admin/admin-settings-page.php:1201
+msgid "Right area"
+msgstr ""
+
+#: admin/admin-settings-page.php:1211
+msgid "Copyright text"
+msgstr ""
+
+#: admin/admin-settings-page.php:1212
+msgid ""
+"This text is showed as last text of the footer and is usually used for "
+"copyright texts."
+msgstr ""
+
+#: admin/admin-settings-page.php:1238
+msgid "What are the lists ?"
+msgstr ""
+
+#: admin/admin-settings-page.php:1249 index.php:385
+msgid "Blog"
+msgstr ""
+
+#: admin/admin-settings-page.php:1254
+msgid "Blog page"
+msgstr ""
+
+#: admin/admin-settings-page.php:1255
+msgid ""
+"Select the page of your blog archive. To show the items edit the page and "
+"insert the Grid list - Post type component or the Masonry list - Post type "
+"component."
+msgstr ""
+
+#: admin/admin-settings-page.php:1278
+msgid "Blog options"
+msgstr ""
+
+#: admin/admin-settings-page.php:1279
+msgid "All the options are provided by the components."
+msgstr ""
+
+#: admin/admin-settings-page.php:1291
+msgid "Add new list"
+msgstr ""
+
+#: admin/admin-settings-page.php:1297
+msgid "Add new list now"
+msgstr ""
+
+#: admin/admin-settings-page.php:1304
+msgid "Shop menu"
+msgstr ""
+
+#: admin/admin-settings-page.php:1305
+msgid "Show the cart menu of Woocommerce shop on main header."
+msgstr ""
+
+#: admin/admin-settings-page.php:1315
+msgid "Shop sidebar"
+msgstr ""
+
+#: admin/admin-settings-page.php:1316
+msgid ""
+"Select the sidebar for shop archive page, set the sidebar contents on "
+"Apparence > Widgets"
+msgstr ""
+
+#: admin/admin-settings-page.php:1332
+msgid "Product sidebar"
+msgstr ""
+
+#: admin/admin-settings-page.php:1333
+msgid ""
+"Select the sidebar for single product item of the shop, set the sidebar "
+"contents on Apparence > Widgets"
+msgstr ""
+
+#: admin/admin-settings-page.php:1349
+msgid "Shop page"
+msgstr ""
+
+#: admin/admin-settings-page.php:1350
+msgid ""
+"Select the main shop page if it's different from the default Woocommerce "
+"shop archive page."
+msgstr ""
+
+#: admin/admin-settings-page.php:1383
+msgid "Title type"
+msgstr ""
+
+#: admin/admin-settings-page.php:1384
+msgid "Select the title type."
+msgstr ""
+
+#: admin/admin-settings-page.php:1402
+msgid "Title background"
+msgstr ""
+
+#: admin/admin-settings-page.php:1403
+msgid ""
+"Add a background image for the title. All title types support background "
+"image, video type can require it for mobile. Title slider support up to 3 "
+"images."
+msgstr ""
+
+#: admin/admin-settings-page.php:1431
+msgid "Video background"
+msgstr ""
+
+#: admin/admin-settings-page.php:1432
+msgid "Set background video. *Supported only for video title type."
+msgstr ""
+
+#: admin/admin-settings-page.php:1436 admin/components/content_box.php:119
+#: admin/components/sections.php:171 admin/components/sections.php:440
+#: admin/components/titles.php:161
+msgid "Youtube or MP4 video link"
+msgstr ""
+
+#: admin/admin-settings-page.php:1437 admin/composer-side.php:938
+msgid "Upload"
+msgstr ""
+
+#: admin/admin-settings-page.php:1443 admin/components/sections.php:96
+#: admin/components/sections.php:255 admin/components/sections.php:420
+#: admin/components/titles.php:62 admin/components/titles.php:126
+#: admin/components/titles.php:184 admin/components/titles.php:265
+msgid "Parallax"
+msgstr ""
+
+#: admin/admin-settings-page.php:1444
+msgid "Set parallax effect for the title background."
+msgstr ""
+
+#: admin/admin-settings-page.php:1454
+msgid "Ken-burn effect"
+msgstr ""
+
+#: admin/admin-settings-page.php:1455
+msgid ""
+"Set the ken-burn animation. *Supported only for image title with parallax "
+"active."
+msgstr ""
+
+#: admin/admin-settings-page.php:1463 admin/components/others.php:990
+#: admin/components/others.php:1050 admin/components/others.php:1669
+#: admin/components/others.php:2241 admin/components/post_types.php:120
+#: admin/components/post_types.php:328 admin/components/sections.php:106
+#: admin/components/sections.php:115 admin/components/sections.php:152
+#: admin/components/sections.php:193 admin/components/titles.php:72
+#: admin/components/titles.php:81 admin/components/titles.php:132
+#: admin/components/titles.php:190 admin/composer-side.php:291
+#: admin/composer-side.php:304 admin/composer-side.php:312
+#: admin/composer.php:718
+msgid "None"
+msgstr ""
+
+#: admin/admin-settings-page.php:1464 admin/components/sections.php:107
+#: admin/components/titles.php:73
+msgid "Zoom in"
+msgstr ""
+
+#: admin/admin-settings-page.php:1465 admin/components/sections.php:108
+#: admin/components/titles.php:74
+msgid "Zoom out"
+msgstr ""
+
+#: admin/admin-settings-page.php:1466 admin/components/sections.php:109
+#: admin/components/titles.php:75
+msgid "Zoom centered"
+msgstr ""
+
+#: admin/admin-settings-page.php:1473 admin/components/containers.php:44
+#: admin/components/others.php:94 admin/composer-side.php:454
+msgid "Full screen"
+msgstr ""
+
+#: admin/admin-settings-page.php:1474
+msgid "Set the height of the title to full screen size."
+msgstr ""
+
+#: admin/admin-settings-page.php:1484 admin/components/sections.php:113
+#: admin/components/sections.php:150 admin/components/sections.php:191
+#: admin/components/titles.php:79 admin/components/titles.php:130
+#: admin/components/titles.php:188
+msgid "Overlay"
+msgstr ""
+
+#: admin/admin-settings-page.php:1485
+msgid "Add a overlay pattern over the title background."
+msgstr ""
+
+#: admin/admin-settings-page.php:1508
+msgid "Titles"
+msgstr ""
+
+#: admin/admin-settings-page.php:1509
+msgid "Set the titles and subtitles for the various pages."
+msgstr ""
+
+#: admin/admin-settings-page.php:1513
+msgid "Woocommerce shop title"
+msgstr ""
+
+#: admin/admin-settings-page.php:1516
+msgid "Woocommerce shop subtitle"
+msgstr ""
+
+#: admin/admin-settings-page.php:1519
+msgid "Search page title"
+msgstr ""
+
+#: admin/admin-settings-page.php:1522
+msgid "Search page subtitle"
+msgstr ""
+
+#: admin/admin-settings-page.php:1532
+msgid "Javascript global"
+msgstr ""
+
+#: admin/admin-settings-page.php:1533
+msgid ""
+"Javascript block loaded in every page. Insert the code without <script></"
+"script> tags. Use '' for text values."
+msgstr ""
+
+#: admin/admin-settings-page.php:1544
+msgid "CSS global"
+msgstr ""
+
+#: admin/admin-settings-page.php:1545
+msgid "CSS block loaded in every page."
+msgstr ""
+
+#: admin/admin-settings-page.php:1556
+msgid "Custom css"
+msgstr ""
+
+#: admin/admin-settings-page.php:1557
+msgid ""
+"If activated a custom.css file is created into the custom folder of theme "
+"root and loaded in every page of your website."
+msgstr ""
+
+#: admin/admin-settings-page.php:1568
+msgid "Custom javascript"
+msgstr ""
+
+#: admin/admin-settings-page.php:1569
+msgid ""
+"If activated a custom.js file is created into custom folder of theme root "
+"and loaded in every page of your website."
+msgstr ""
+
+#: admin/admin-settings-page.php:1580
+msgid "Custom php"
+msgstr ""
+
+#: admin/admin-settings-page.php:1581
+msgid ""
+"If activated a custom.php file is created into custom folder of theme root "
+"and loaded in every page of your website."
+msgstr ""
+
+#: admin/admin-settings-page.php:1592
+msgid "Export settings"
+msgstr ""
+
+#: admin/admin-settings-page.php:1593
+msgid "Export all settings of your website in a json file."
+msgstr ""
+
+#: admin/admin-settings-page.php:1602
+msgid "Import settings"
+msgstr ""
+
+#: admin/admin-settings-page.php:1603
+msgid ""
+"Import settings by paste here the text of demo json file or your exported "
+"json file."
+msgstr ""
+
+#: admin/admin-settings-page.php:1615
+msgid "Clear LocalStorage"
+msgstr ""
+
+#: admin/admin-settings-page.php:1616
+msgid ""
+"LocalStorage is used for Hybrid Composer cache and for the Copy and paste "
+"feature, when it's full these functionality stop to work and you need to "
+"click this button."
+msgstr ""
+
+#: admin/admin-settings-page.php:1628
+msgid "Social channels"
+msgstr ""
+
+#: admin/admin-settings-page.php:1629
+msgid "Insert the links to your social channels account and pages."
+msgstr ""
+
+#: admin/admin-settings-page.php:1667
+msgid "Google maps key"
+msgstr ""
+
+#: admin/admin-settings-page.php:1668
+msgid ""
+"Insert the Google maps API key, you can get a new key from developers.google."
+"com/maps."
+msgstr ""
+
+#: admin/admin-settings-page.php:1679
+msgid "Twitter consumer key"
+msgstr ""
+
+#: admin/admin-settings-page.php:1680
+msgid ""
+"Your twitter app consumer key. Go to http://dev.twitter.com/apps and create "
+"a new app and get the keys."
+msgstr ""
+
+#: admin/admin-settings-page.php:1691
+msgid "Twitter consumer secret"
+msgstr ""
+
+#: admin/admin-settings-page.php:1692
+msgid "Your twitter app consumer secret."
+msgstr ""
+
+#: admin/admin-settings-page.php:1703
+msgid "Twitter access token"
+msgstr ""
+
+#: admin/admin-settings-page.php:1704
+msgid "Your twitter app access token."
+msgstr ""
+
+#: admin/admin-settings-page.php:1715
+msgid "Twitter access secret"
+msgstr ""
+
+#: admin/admin-settings-page.php:1716
+msgid "Your twitter app access secret key."
+msgstr ""
+
+#: admin/admin-settings-page.php:1730
+msgid "Demo importing in progress, please wait up to 5 minutes"
+msgstr ""
+
+#: admin/admin-settings-page.php:1734
+msgid "We're downloading the demo files"
+msgstr ""
+
+#: admin/admin-settings-page.php:1746
+msgid "Problems ?"
+msgstr ""
+
+#: admin/admin-settings-page.php:1759
+msgid ""
+"Install and activate Hybrid Composer and the other required plugins before "
+"start the demo importing."
+msgstr ""
+
+#: admin/admin-settings-page.php:1763
+msgid "Yes import now"
+msgstr ""
+
+#: admin/admin-settings-page.php:1772
+msgid "SAVE ALL SETTINGS"
+msgstr ""
+
+#: admin/autoimporter.php:381
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/autoimporter.php:421
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: admin/autoimporter.php:467 admin/autoimporter.php:606
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/autoimporter.php:572
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/autoimporter.php:807
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: admin/autoimporter.php:820
+msgid "Invalid file type"
+msgstr ""
+
+#: admin/autoimporter.php:864
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/autoimporter.php:870
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: admin/autoimporter.php:877
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/autoimporter.php:882
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/autoimporter.php:888
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/components/containers.php:37 admin/components/containers.php:73
+#: admin/components/containers.php:1083 admin/components/others.php:166
+msgid "Height"
+msgstr ""
+
+#: admin/components/containers.php:48 admin/components/containers.php:77
+msgid "Offset height"
+msgstr ""
+
+#: admin/components/containers.php:52 admin/components/containers.php:81
+msgid "Mobile disabled"
+msgstr ""
+
+#: admin/components/containers.php:67 admin/components/others.php:1659
+#: admin/components/others.php:1764 admin/components/others.php:1765
+#: admin/composer.php:207 admin/composer.php:208 admin/composer.php:765
+#: admin/composer.php:812 admin/composer.php:904 admin/composer.php:948
+#: admin/composer.php:960 admin/other.php:12 admin/widgets.php:184
+msgid "Search"
+msgstr ""
+
+#: admin/components/containers.php:68 admin/components/others.php:1660
+#: admin/composer.php:766
+msgid "Search..."
+msgstr ""
+
+#: admin/components/containers.php:71 admin/components/sections.php:27
+msgid "Section"
+msgstr ""
+
+#: admin/components/containers.php:84
+msgid "All options"
+msgstr ""
+
+#: admin/components/containers.php:86 admin/components/containers.php:1255
+#: admin/components/containers.php:1862 admin/components/others.php:209
+#: admin/components/others.php:398 admin/components/others.php:799
+msgid "Size"
+msgstr ""
+
+#: admin/components/containers.php:90 admin/components/containers.php:1068
+#: admin/components/others.php:218 admin/components/others.php:874
+#: admin/components/others.php:1125 admin/components/others.php:2042
+#: admin/components/post_types.php:882 admin/composer-side.php:521
+msgid "Position"
+msgstr ""
+
+#: admin/components/containers.php:101
+msgid "Always visible"
+msgstr ""
+
+#: admin/components/containers.php:105
+msgid "Distance"
+msgstr ""
+
+#: admin/components/containers.php:109
+msgid "Start"
+msgstr ""
+
+#: admin/components/containers.php:113
+msgid "Wheel step"
+msgstr ""
+
+#: admin/components/containers.php:117
+msgid "Rail visible"
+msgstr ""
+
+#: admin/components/containers.php:121
+msgid "Rail color"
+msgstr ""
+
+#: admin/components/containers.php:125
+msgid "Rail opacity"
+msgstr ""
+
+#: admin/components/containers.php:129
+msgid "Allow page scroll"
+msgstr ""
+
+#: admin/components/containers.php:133
+msgid "Touch scroll step"
+msgstr ""
+
+#: admin/components/containers.php:138 admin/components/containers.php:1950
+#: admin/components/others.php:855 admin/components/others.php:1076
+#: admin/components/others.php:1104 admin/components/others.php:1718
+#: admin/components/others.php:1854 admin/composer.php:758
+#: admin/composer.php:805 admin/composer.php:898 admin/composer.php:954
+#: admin/composer.php:968 admin/composer.php:974
+msgid "SAVE SETTINGS"
+msgstr ""
+
+#: admin/components/containers.php:150
+msgid "Rows"
+msgstr ""
+
+#: admin/components/containers.php:154 admin/components/containers.php:1129
+#: admin/components/containers.php:1740 admin/components/containers.php:1994
+#: admin/components/post_types.php:76 admin/components/post_types.php:284
+#: admin/composer.php:585
+msgid "Columns"
+msgstr ""
+
+#: admin/components/containers.php:161
+msgid "Full border"
+msgstr ""
+
+#: admin/components/containers.php:165
+msgid "Mobile full width"
+msgstr ""
+
+#: admin/components/containers.php:190 admin/components/containers.php:276
+#: admin/components/containers.php:408 admin/components/post_types.php:528
+msgid "Outer arrows"
+msgstr ""
+
+#: admin/components/containers.php:194 admin/components/containers.php:284
+#: admin/components/containers.php:416
+msgid "Always visible arrows"
+msgstr ""
+
+#: admin/components/containers.php:198 admin/components/containers.php:288
+#: admin/components/containers.php:420 admin/components/post_types.php:536
+msgid "Inner dots"
+msgstr ""
+
+#: admin/components/containers.php:202 admin/components/containers.php:467
+#: admin/components/others.php:49 admin/composer-side.php:419
+msgid "Lightbox"
+msgstr ""
+
+#: admin/components/containers.php:206 admin/components/containers.php:471
+#: admin/components/containers.php:1196 admin/components/containers.php:1807
+#: admin/components/others.php:57
+msgid "Lightbox animation"
+msgstr ""
+
+#: admin/components/containers.php:212 admin/components/containers.php:477
+msgid "Images animation"
+msgstr ""
+
+#: admin/components/containers.php:218 admin/components/containers.php:483
+#: admin/components/containers.php:1180 admin/components/containers.php:1791
+msgid "Images size"
+msgstr ""
+
+#: admin/components/containers.php:224
+msgid "Lightbox image size"
+msgstr ""
+
+#: admin/components/containers.php:230 admin/components/containers.php:489
+#: admin/components/containers.php:1228 admin/components/containers.php:1839
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/components/containers.php:234 admin/components/containers.php:292
+#: admin/components/containers.php:493
+msgid "PNG optimized"
+msgstr ""
+
+#: admin/components/containers.php:242 admin/components/containers.php:296
+#: admin/components/containers.php:424 admin/components/containers.php:501
+#: admin/components/containers.php:535 admin/components/containers.php:2058
+#: admin/components/others.php:957 admin/components/others.php:997
+#: admin/components/post_types.php:540
+msgid "Trigger"
+msgstr ""
+
+#: admin/components/containers.php:244 admin/components/containers.php:298
+#: admin/components/containers.php:426 admin/components/containers.php:503
+#: admin/components/containers.php:537 admin/components/others.php:959
+#: admin/components/others.php:999 admin/components/post_types.php:88
+#: admin/components/post_types.php:542
+msgid "Auto"
+msgstr ""
+
+#: admin/components/containers.php:245 admin/components/containers.php:299
+#: admin/components/containers.php:427 admin/components/containers.php:504
+#: admin/components/containers.php:538 admin/components/containers.php:2062
+#: admin/components/others.php:960 admin/components/others.php:1000
+#: admin/components/post_types.php:543
+msgid "Manual"
+msgstr ""
+
+#: admin/components/containers.php:252 admin/components/containers.php:306
+#: admin/components/containers.php:2042 admin/components/others.php:978
+#: admin/components/others.php:1133 admin/components/others.php:1879
+#: admin/components/post_types.php:521 admin/components/post_types.php:770
+msgid "Type"
+msgstr ""
+
+#: admin/components/containers.php:254 admin/components/containers.php:308
+#: admin/components/content_box.php:127 admin/components/others.php:992
+#: admin/components/post_types.php:523 admin/components/sections.php:64
+#: admin/components/sections.php:408 admin/components/titles.php:31
+#: admin/composer.php:458 admin/composer.php:551
+msgid "Slider"
+msgstr ""
+
+#: admin/components/containers.php:255 admin/components/containers.php:309
+#: admin/components/others.php:993 admin/components/post_types.php:524
+msgid "Carousel"
+msgstr ""
+
+#: admin/components/containers.php:280 admin/components/containers.php:412
+msgid "Vertical middle"
+msgstr ""
+
+#: admin/components/containers.php:431 admin/components/containers.php:715
+#: admin/components/containers.php:1249 admin/components/containers.php:1295
+#: admin/components/containers.php:1856 admin/components/containers.php:1902
+#: admin/components/containers.php:1988 admin/components/image_box.php:127
+#: admin/components/others.php:846 admin/components/post_types.php:131
+#: admin/components/post_types.php:219 admin/components/post_types.php:339
+#: admin/components/post_types.php:452 admin/components/post_types.php:586
+#: admin/components/post_types.php:705 admin/components/sections.php:66
+#: admin/components/titles.php:33 admin/composer-side.php:462
+#: admin/composer-side.php:538 admin/composer.php:818
+msgid "Animation"
+msgstr ""
+
+#: admin/components/containers.php:459 admin/components/containers.php:527
+#: admin/components/post_types.php:662
+msgid "Slide width"
+msgstr ""
+
+#: admin/components/containers.php:463 admin/components/containers.php:531
+msgid "Slide width mobile"
+msgstr ""
+
+#: admin/components/containers.php:556 admin/components/containers.php:572
+#: admin/components/containers.php:588 admin/components/containers.php:604
+#: admin/components/containers.php:620 admin/components/containers.php:636
+#: admin/components/containers.php:652 admin/components/containers.php:668
+#: admin/composer-side.php:1013
+msgid "Tab name"
+msgstr ""
+
+#: admin/components/containers.php:695 admin/components/others.php:438
+#: admin/components/others.php:555 admin/components/others.php:1112
+#: admin/components/others.php:1888 admin/components/post_types.php:779
+#: admin/composer-side.php:22 admin/composer-side.php:290
+msgid "Classic"
+msgstr ""
+
+#: admin/components/containers.php:696
+msgid "Classic bottom"
+msgstr ""
+
+#: admin/components/containers.php:697
+msgid "Justified"
+msgstr ""
+
+#: admin/components/containers.php:698
+msgid "Justified bottom"
+msgstr ""
+
+#: admin/components/containers.php:700
+msgid "Centered bottom"
+msgstr ""
+
+#: admin/components/containers.php:701
+msgid "Vertical left"
+msgstr ""
+
+#: admin/components/containers.php:702
+msgid "Vertical left justified"
+msgstr ""
+
+#: admin/components/containers.php:703
+msgid "Vertical right"
+msgstr ""
+
+#: admin/components/containers.php:704
+msgid "Vertical right justified"
+msgstr ""
+
+#: admin/components/containers.php:711
+msgid "Pills style"
+msgstr ""
+
+#: admin/components/containers.php:721 admin/components/containers.php:1208
+#: admin/components/containers.php:1819 admin/components/image_box.php:58
+msgid "Icon animation"
+msgstr ""
+
+#: admin/components/containers.php:727
+msgid "Vertical layout"
+msgstr ""
+
+#: admin/components/containers.php:729 admin/components/containers.php:1024
+#: admin/components/containers.php:1734 admin/components/others.php:211
+#: admin/components/others.php:354 admin/components/others.php:365
+#: admin/components/others.php:405 admin/components/others.php:492
+#: admin/components/others.php:503 admin/components/others.php:620
+#: admin/components/others.php:632 admin/components/others.php:706
+#: admin/components/others.php:718 admin/components/others.php:950
+#: admin/components/others.php:1060 admin/components/others.php:1641
+#: admin/components/others.php:2261 admin/components/post_types.php:212
+#: admin/components/post_types.php:368 admin/components/post_types.php:445
+#: admin/components/post_types.php:620 admin/components/post_types.php:739
+#: admin/components/post_types.php:817 admin/components/sections.php:355
+#: admin/composer-side.php:336 admin/composer.php:115
+msgid "Default"
+msgstr ""
+
+#: admin/components/containers.php:730
+msgid "3-9"
+msgstr ""
+
+#: admin/components/containers.php:731
+msgid "2-10"
+msgstr ""
+
+#: admin/components/containers.php:748 admin/components/containers.php:762
+#: admin/components/containers.php:776 admin/components/containers.php:794
+#: admin/components/containers.php:808 admin/components/containers.php:822
+msgid "Step name"
+msgstr ""
+
+#: admin/components/containers.php:851 admin/components/containers.php:867
+#: admin/components/containers.php:883 admin/components/containers.php:899
+#: admin/components/containers.php:915 admin/components/containers.php:931
+#: admin/components/containers.php:947 admin/components/containers.php:963
+#: admin/components/containers.php:979 admin/components/containers.php:995
+#: admin/components/containers.php:1969 admin/components/post_types.php:819
+#: admin/composer-side.php:789
+msgid "Name"
+msgstr ""
+
+#: admin/components/containers.php:1022
+msgid "Open type"
+msgstr ""
+
+#: admin/components/containers.php:1025 admin/composer.php:494
+msgid "Accordion"
+msgstr ""
+
+#: admin/components/containers.php:1026 admin/composer-side.php:306
+msgid "Visible"
+msgstr ""
+
+#: admin/components/containers.php:1033 admin/components/containers.php:1087
+msgid "Opening time"
+msgstr ""
+
+#: admin/components/containers.php:1037
+msgid "Open tab"
+msgstr ""
+
+#: admin/components/containers.php:1060 admin/components/containers.php:1291
+#: admin/components/containers.php:1898 admin/components/content_box.php:155
+#: admin/components/content_box.php:289 admin/components/content_box.php:326
+#: admin/components/others.php:233 admin/components/post_types.php:251
+#: admin/components/post_types.php:484 admin/composer.php:98
+msgid "Button text"
+msgstr ""
+
+#: admin/components/containers.php:1064
+msgid "Button open text"
+msgstr ""
+
+#: admin/components/containers.php:1070 admin/components/containers.php:2021
+#: admin/components/containers.php:2054 admin/components/others.php:343
+#: admin/components/others.php:475 admin/components/others.php:753
+#: admin/components/others.php:2044 admin/components/sections.php:312
+msgid "Bottom"
+msgstr ""
+
+#: admin/components/containers.php:1071 admin/components/containers.php:2017
+#: admin/components/containers.php:2051 admin/components/others.php:342
+#: admin/components/others.php:474 admin/components/others.php:752
+#: admin/components/others.php:2045 admin/components/sections.php:311
+msgid "Top"
+msgstr ""
+
+#: admin/components/containers.php:1075 admin/components/others.php:286
+#: admin/components/others.php:330 admin/components/others.php:390
+#: admin/components/others.php:1894 admin/components/post_types.php:785
+msgid "Alignment"
+msgstr ""
+
+#: admin/components/containers.php:1077 admin/components/containers.php:1220
+#: admin/components/containers.php:1726 admin/components/containers.php:1831
+#: admin/components/image_box.php:48 admin/components/others.php:222
+#: admin/components/others.php:289 admin/components/others.php:334
+#: admin/components/others.php:394 admin/components/others.php:932
+#: admin/components/others.php:1129 admin/components/others.php:1261
+#: admin/components/others.php:1898 admin/components/others.php:1975
+#: admin/components/others.php:2269 admin/components/post_types.php:360
+#: admin/components/post_types.php:789 admin/components/post_types.php:886
+#: admin/components/sections.php:341 admin/composer-side.php:328
+msgid "Center"
+msgstr ""
+
+#: admin/components/containers.php:1118 admin/components/containers.php:1314
+msgid "Images list"
+msgstr ""
+
+#: admin/components/containers.php:1119 admin/components/containers.php:1315
+msgid "Advanced list"
+msgstr ""
+
+#: admin/components/containers.php:1139 admin/components/containers.php:1750
+msgid "Mobile columns"
+msgstr ""
+
+#: admin/components/containers.php:1148 admin/components/containers.php:1759
+#: admin/components/post_types.php:86 admin/components/post_types.php:294
+msgid "Row height"
+msgstr ""
+
+#: admin/components/containers.php:1176 admin/components/containers.php:1787
+#: admin/components/post_types.php:114 admin/components/post_types.php:322
+msgid "Margins"
+msgstr ""
+
+#: admin/components/containers.php:1186 admin/components/containers.php:1797
+msgid "Lightbox images size"
+msgstr ""
+
+#: admin/components/containers.php:1192 admin/components/containers.php:1803
+msgid "Gallery"
+msgstr ""
+
+#: admin/components/containers.php:1202 admin/components/containers.php:1813
+msgid "Hover animation"
+msgstr ""
+
+#: admin/components/containers.php:1214 admin/components/containers.php:1825
+#: admin/components/image_box.php:42 admin/components/others.php:338
+#: admin/components/others.php:470
+msgid "Icon position"
+msgstr ""
+
+#: admin/components/containers.php:1216 admin/components/containers.php:1827
+#: admin/components/image_box.php:44 admin/composer-side.php:526
+msgid "Top left"
+msgstr ""
+
+#: admin/components/containers.php:1217 admin/components/containers.php:1828
+#: admin/components/image_box.php:45
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/components/containers.php:1218 admin/components/containers.php:1829
+#: admin/components/image_box.php:46
+msgid "Top Right"
+msgstr ""
+
+#: admin/components/containers.php:1219 admin/components/containers.php:1830
+#: admin/components/image_box.php:47
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/components/containers.php:1224 admin/components/containers.php:1835
+msgid "Hide icon"
+msgstr ""
+
+#: admin/components/containers.php:1234 admin/components/containers.php:1845
+#: admin/components/post_types.php:121 admin/components/post_types.php:329
+msgid "Pagination"
+msgstr ""
+
+#: admin/components/containers.php:1241 admin/components/containers.php:1852
+#: admin/components/post_types.php:127 admin/components/post_types.php:335
+msgid "Items per page"
+msgstr ""
+
+#: admin/components/containers.php:1245 admin/components/containers.php:1945
+#: admin/components/post_types.php:230 admin/components/post_types.php:463
+msgid "Scroll top"
+msgstr ""
+
+#: admin/components/containers.php:1257 admin/components/containers.php:1864
+#: admin/components/others.php:91 admin/components/others.php:213
+#: admin/components/others.php:352 admin/components/others.php:363
+#: admin/components/others.php:403 admin/components/others.php:485
+#: admin/components/others.php:496 admin/components/others.php:507
+#: admin/components/others.php:618 admin/components/others.php:630
+#: admin/components/others.php:704 admin/components/others.php:716
+#: admin/components/others.php:1061 admin/components/post_types.php:139
+#: admin/components/post_types.php:214 admin/components/post_types.php:347
+#: admin/components/post_types.php:447 admin/components/post_types.php:622
+#: admin/components/post_types.php:741 admin/composer-side.php:451
+#: admin/composer.php:117
+msgid "Small"
+msgstr ""
+
+#: admin/components/containers.php:1258 admin/components/containers.php:1865
+#: admin/components/others.php:1062 admin/components/post_types.php:140
+#: admin/components/post_types.php:348
+msgid "Normal"
+msgstr ""
+
+#: admin/components/containers.php:1259 admin/components/containers.php:1866
+#: admin/components/others.php:93 admin/components/others.php:212
+#: admin/components/others.php:350 admin/components/others.php:361
+#: admin/components/others.php:401 admin/components/others.php:483
+#: admin/components/others.php:494 admin/components/others.php:505
+#: admin/components/others.php:616 admin/components/others.php:628
+#: admin/components/others.php:702 admin/components/others.php:714
+#: admin/components/others.php:1063 admin/components/post_types.php:141
+#: admin/components/post_types.php:211 admin/components/post_types.php:349
+#: admin/components/post_types.php:444 admin/components/post_types.php:619
+#: admin/components/post_types.php:738 admin/composer-side.php:453
+#: admin/composer.php:116
+msgid "Large"
+msgstr ""
+
+#: admin/components/containers.php:1267 admin/components/containers.php:1874
+msgid "Simple controls"
+msgstr ""
+
+#: admin/components/containers.php:1276 admin/components/containers.php:1292
+#: admin/components/containers.php:1883 admin/components/containers.php:1899
+#: admin/components/post_types.php:252 admin/components/post_types.php:485
+msgid "Load more"
+msgstr ""
+
+#: admin/components/containers.php:1283 admin/components/containers.php:1890
+msgid "Items per load"
+msgstr ""
+
+#: admin/components/containers.php:1287 admin/components/containers.php:1894
+#: admin/components/post_types.php:247 admin/components/post_types.php:480
+msgid "Lazy load"
+msgstr ""
+
+#: admin/components/containers.php:1322 admin/components/containers.php:1341
+#: admin/components/containers.php:1360 admin/components/containers.php:1379
+#: admin/components/containers.php:1398 admin/components/containers.php:1417
+#: admin/components/containers.php:1436 admin/components/containers.php:1455
+#: admin/components/containers.php:1474 admin/components/containers.php:1493
+#: admin/components/containers.php:1529 admin/components/containers.php:1546
+#: admin/components/containers.php:1563 admin/components/containers.php:1580
+#: admin/components/containers.php:1597 admin/components/containers.php:1614
+#: admin/components/containers.php:1631 admin/components/containers.php:1648
+#: admin/components/containers.php:1665 admin/components/containers.php:1682
+msgid "Menu item"
+msgstr ""
+
+#: admin/components/containers.php:1719 admin/components/others.php:2255
+#: admin/components/post_types.php:353
+msgid "Show menu"
+msgstr ""
+
+#: admin/components/containers.php:1728 admin/components/post_types.php:362
+msgid "Outer right"
+msgstr ""
+
+#: admin/components/containers.php:1732 admin/components/others.php:2259
+#: admin/components/post_types.php:366 admin/composer-side.php:284
+msgid "Menu style"
+msgstr ""
+
+#: admin/components/containers.php:1735 admin/components/others.php:1889
+#: admin/components/post_types.php:369
+msgid "Rounded"
+msgstr ""
+
+#: admin/components/containers.php:1736 admin/components/others.php:1890
+#: admin/components/post_types.php:370
+msgid "Minimal"
+msgstr ""
+
+#: admin/components/containers.php:1783 admin/components/post_types.php:374
+msgid "Auto masonry"
+msgstr ""
+
+#: admin/components/containers.php:1917
+msgid "Start page"
+msgstr ""
+
+#: admin/components/containers.php:1921
+msgid "Visible pages"
+msgstr ""
+
+#: admin/components/containers.php:1925
+msgid "First button text"
+msgstr ""
+
+#: admin/components/containers.php:1926
+msgid "First"
+msgstr ""
+
+#: admin/components/containers.php:1929
+msgid "Prev button text"
+msgstr ""
+
+#: admin/components/containers.php:1930 admin/components/post_types.php:239
+#: admin/components/post_types.php:472
+msgid "Prev"
+msgstr ""
+
+#: admin/components/containers.php:1933
+msgid "Next button text"
+msgstr ""
+
+#: admin/components/containers.php:1934 admin/components/post_types.php:243
+#: admin/components/post_types.php:476 admin/components/post_types.php:861
+#: admin/composer-side.php:323
+msgid "Next"
+msgstr ""
+
+#: admin/components/containers.php:1937
+msgid "Last button text"
+msgstr ""
+
+#: admin/components/containers.php:1938
+msgid "Last"
+msgstr ""
+
+#: admin/components/containers.php:1941 admin/components/others.php:174
+msgid "Loop"
+msgstr ""
+
+#: admin/components/containers.php:1958
+msgid "Album menu"
+msgstr ""
+
+#: admin/components/containers.php:1979
+msgid "Album content"
+msgstr ""
+
+#: admin/components/containers.php:2044
+msgid "Toolstip"
+msgstr ""
+
+#: admin/components/containers.php:2045 admin/composer.php:500
+msgid "Popover"
+msgstr ""
+
+#: admin/components/containers.php:2049 admin/components/others.php:323
+#: admin/composer-side.php:361 admin/composer.php:825
+msgid "Direction"
+msgstr ""
+
+#: admin/components/containers.php:2060
+msgid "Hover"
+msgstr ""
+
+#: admin/components/containers.php:2061
+msgid "Click"
+msgstr ""
+
+#: admin/components/containers.php:2066 admin/components/image_box.php:78
+#: admin/components/others.php:245 admin/components/others.php:732
+#: admin/components/others.php:778 admin/composer-side.php:498
+#: admin/composer.php:227
+msgid "Title"
+msgstr ""
+
+#: admin/components/containers.php:2070 admin/components/others.php:575
+#: admin/components/others.php:1140 admin/components/others.php:1919
+msgid "Text"
+msgstr ""
+
+#: admin/components/content_box.php:32 admin/components/content_box.php:133
+#: admin/components/content_box.php:190 admin/components/content_box.php:275
+#: admin/components/image_box.php:104 admin/components/others.php:264
+#: admin/components/others.php:514 admin/components/others.php:535
+#: admin/components/others.php:864
+msgid "Title ..."
+msgstr ""
+
+#: admin/components/content_box.php:43 admin/components/image_box.php:110
+msgid "Box style"
+msgstr ""
+
+#: admin/components/content_box.php:45 admin/components/post_types.php:148
+#: admin/components/post_types.php:382 admin/components/post_types.php:551
+#: admin/components/post_types.php:670
+msgid "Side image"
+msgstr ""
+
+#: admin/components/content_box.php:46 admin/components/post_types.php:149
+#: admin/components/post_types.php:381 admin/components/post_types.php:550
+#: admin/components/post_types.php:669
+msgid "Top image"
+msgstr ""
+
+#: admin/components/content_box.php:47 admin/components/post_types.php:151
+#: admin/components/post_types.php:383 admin/components/post_types.php:552
+#: admin/components/post_types.php:671
+msgid "Top icon"
+msgstr ""
+
+#: admin/components/content_box.php:48 admin/components/post_types.php:150
+#: admin/components/post_types.php:384 admin/components/post_types.php:553
+#: admin/components/post_types.php:672
+msgid "Side icon"
+msgstr ""
+
+#: admin/components/content_box.php:49 admin/components/post_types.php:152
+#: admin/components/post_types.php:385 admin/components/post_types.php:554
+#: admin/components/post_types.php:673
+msgid "Multiple box"
+msgstr ""
+
+#: admin/components/content_box.php:53 admin/components/content_box.php:147
+#: admin/components/post_types.php:171 admin/components/post_types.php:404
+#: admin/components/post_types.php:573 admin/components/post_types.php:692
+msgid "Boxed"
+msgstr ""
+
+#: admin/components/content_box.php:57 admin/components/content_box.php:151
+#: admin/components/post_types.php:175 admin/components/post_types.php:408
+#: admin/components/post_types.php:577 admin/components/post_types.php:696
+msgid "Boxed inverse"
+msgstr ""
+
+#: admin/components/content_box.php:62 admin/components/content_box.php:159
+msgid "Extra content"
+msgstr ""
+
+#: admin/components/content_box.php:66
+msgid "Extra content 2"
+msgstr ""
+
+#: admin/components/content_box.php:74 admin/components/content_box.php:169
+#: admin/components/content_box.php:209 admin/components/content_box.php:264
+#: admin/components/others.php:518 admin/components/others.php:1187
+msgid "Text ..."
+msgstr ""
+
+#: admin/components/content_box.php:120 admin/components/sections.php:172
+#: admin/components/sections.php:441 admin/components/titles.php:162
+msgid "Upload video"
+msgstr ""
+
+#: admin/components/content_box.php:126 admin/components/sections.php:63
+#: admin/components/sections.php:407 admin/components/titles.php:30
+#: admin/composer-side.php:438 admin/composer-side.php:510
+#: admin/composer.php:263
+msgid "Image"
+msgstr ""
+
+#: admin/components/content_box.php:128 admin/components/sections.php:65
+#: admin/components/sections.php:409 admin/components/titles.php:32
+#: admin/composer.php:425
+msgid "Video"
+msgstr ""
+
+#: admin/components/content_box.php:139 admin/components/content_box.php:196
+#: admin/components/image_box.php:33 admin/components/others.php:199
+#: admin/components/others.php:275 admin/components/others.php:409
+#: admin/components/others.php:436 admin/components/others.php:553
+#: admin/components/others.php:588 admin/components/others.php:658
+#: admin/components/others.php:741 admin/components/others.php:1110
+#: admin/components/others.php:1194 admin/components/others.php:1214
+#: admin/components/others.php:1215 admin/components/others.php:1216
+#: admin/components/others.php:1217 admin/components/others.php:1218
+#: admin/components/others.php:1219 admin/components/others.php:1220
+#: admin/components/others.php:1221 admin/components/others.php:1222
+#: admin/components/others.php:1223 admin/components/others.php:1224
+#: admin/components/others.php:1225 admin/components/others.php:1226
+#: admin/components/others.php:1227 admin/components/others.php:1639
+#: admin/components/others.php:1886 admin/components/post_types.php:777
+#: admin/components/post_types.php:780 admin/components/post_types.php:781
+#: admin/composer.php:928 admin/widgets.php:167 admin/widgets.php:168
+msgid "Style"
+msgstr ""
+
+#: admin/components/content_box.php:141
+msgid "Side"
+msgstr ""
+
+#: admin/components/content_box.php:142 admin/components/others.php:2049
+#: admin/components/sections.php:30 admin/components/sections.php:277
+#: admin/components/sections.php:377 admin/components/sections.php:497
+#: admin/composer-side.php:517
+msgid "Full width"
+msgstr ""
+
+#: admin/components/content_box.php:143
+msgid "Full width 2"
+msgstr ""
+
+#: admin/components/content_box.php:166 admin/components/content_box.php:206
+#: admin/components/content_box.php:261 admin/components/content_box.php:300
+#: admin/components/others.php:268 admin/components/others.php:538
+#: admin/components/others.php:867
+msgid "Subtitle ..."
+msgstr ""
+
+#: admin/components/content_box.php:198 admin/components/others.php:2262
+msgid "Style 1"
+msgstr ""
+
+#: admin/components/content_box.php:199 admin/components/others.php:2263
+msgid "Style 2"
+msgstr ""
+
+#: admin/components/content_box.php:228
+msgid "Name ..."
+msgstr ""
+
+#: admin/components/content_box.php:281
+msgid "Featured"
+msgstr ""
+
+#: admin/components/content_box.php:285 admin/components/image_box.php:144
+msgid "Extra text"
+msgstr ""
+
+#: admin/components/content_box.php:293
+msgid "Button link"
+msgstr ""
+
+#: admin/components/content_box.php:318 admin/components/others.php:870
+msgid "Content ..."
+msgstr ""
+
+#: admin/components/image_box.php:35 admin/components/others.php:202
+#: admin/components/others.php:414 admin/components/others.php:838
+#: admin/composer.php:105 admin/composer.php:934
+msgid "Square"
+msgstr ""
+
+#: admin/components/image_box.php:36
+msgid "Square thumbnail"
+msgstr ""
+
+#: admin/components/image_box.php:37 admin/components/others.php:201
+#: admin/composer-side.php:337 admin/composer.php:104 admin/composer.php:931
+msgid "Circle"
+msgstr ""
+
+#: admin/components/image_box.php:38
+msgid "Circle thumbnail"
+msgstr ""
+
+#: admin/components/image_box.php:52
+msgid "Image animation"
+msgstr ""
+
+#: admin/components/image_box.php:64 admin/components/image_box.php:137
+#: admin/components/image_box.php:178
+msgid "Image size"
+msgstr ""
+
+#: admin/components/image_box.php:70
+msgid "Hidden icon"
+msgstr ""
+
+#: admin/components/image_box.php:74 admin/components/others.php:67
+msgid "Inner caption"
+msgstr ""
+
+#: admin/components/image_box.php:82 admin/components/image_box.php:174
+msgid "Alt text"
+msgstr ""
+
+#: admin/components/image_box.php:112
+msgid "Half content"
+msgstr ""
+
+#: admin/components/image_box.php:113
+msgid "Double content"
+msgstr ""
+
+#: admin/components/image_box.php:114
+msgid "Side content"
+msgstr ""
+
+#: admin/components/image_box.php:115
+msgid "Full content"
+msgstr ""
+
+#: admin/components/image_box.php:116
+msgid "Buttons content"
+msgstr ""
+
+#: admin/components/image_box.php:117
+msgid "Down text"
+msgstr ""
+
+#: admin/components/image_box.php:118
+msgid "Classic box"
+msgstr ""
+
+#: admin/components/image_box.php:119
+msgid "Circle center"
+msgstr ""
+
+#: admin/components/image_box.php:120
+msgid "Circle center 2"
+msgstr ""
+
+#: admin/components/image_box.php:121
+msgid "Circle half"
+msgstr ""
+
+#: admin/components/image_box.php:122
+msgid "Circle bottom"
+msgstr ""
+
+#: admin/components/image_box.php:123
+msgid "Circle background"
+msgstr ""
+
+#: admin/components/image_box.php:133 admin/components/post_types.php:180
+#: admin/components/post_types.php:413 admin/components/post_types.php:582
+#: admin/components/post_types.php:701
+msgid "Hidden content"
+msgstr ""
+
+#: admin/components/image_box.php:148 admin/components/others.php:791
+#: admin/components/post_types.php:195 admin/components/post_types.php:428
+#: admin/components/post_types.php:603 admin/components/post_types.php:722
+msgid "Subtitle"
+msgstr ""
+
+#: admin/components/image_box.php:152 admin/composer-side.php:502
+msgid "Main text"
+msgstr ""
+
+#: admin/components/others.php:48 admin/components/others.php:76
+#: admin/components/others.php:154 admin/components/others.php:205
+#: admin/components/others.php:1136 admin/components/others.php:1868
+#: admin/components/others.php:1925 admin/composer-side.php:434
+#: admin/composer-side.php:506 admin/composer.php:108
+msgid "Link"
+msgstr ""
+
+#: admin/components/others.php:50 admin/components/sections.php:410
+msgid "Custom"
+msgstr ""
+
+#: admin/components/others.php:63
+msgid "Lightbox caption"
+msgstr ""
+
+#: admin/components/others.php:71 admin/composer-side.php:445
+#: admin/composer-side.php:530
+msgid "New window"
+msgstr ""
+
+#: admin/components/others.php:77
+msgid "Edit content"
+msgstr ""
+
+#: admin/components/others.php:89 admin/composer-side.php:449
+msgid "Lightbox size"
+msgstr ""
+
+#: admin/components/others.php:92 admin/components/others.php:351
+#: admin/components/others.php:362 admin/components/others.php:402
+#: admin/components/others.php:484 admin/components/others.php:495
+#: admin/components/others.php:506 admin/components/others.php:617
+#: admin/components/others.php:629 admin/components/others.php:703
+#: admin/components/others.php:715 admin/components/post_types.php:213
+#: admin/components/post_types.php:446 admin/components/post_types.php:621
+#: admin/components/post_types.php:740 admin/composer-side.php:452
+msgid "Medium"
+msgstr ""
+
+#: admin/components/others.php:98 admin/components/others.php:991
+#: admin/composer.php:446
+msgid "Scroll box"
+msgstr ""
+
+#: admin/components/others.php:103 admin/composer.php:999
+msgid "SAVE"
+msgstr ""
+
+#: admin/components/others.php:138 admin/composer-side.php:402
+msgid "Video link"
+msgstr ""
+
+#: admin/components/others.php:155
+msgid "Youtube or MP4 link"
+msgstr ""
+
+#: admin/components/others.php:162
+msgid "Width"
+msgstr ""
+
+#: admin/components/others.php:170
+msgid "Autoplay"
+msgstr ""
+
+#: admin/components/others.php:178
+msgid "Controls"
+msgstr ""
+
+#: admin/components/others.php:182
+msgid "Muted"
+msgstr ""
+
+#: admin/components/others.php:203 admin/composer.php:106
+msgid "Circle border"
+msgstr ""
+
+#: admin/components/others.php:204 admin/composer.php:107
+msgid "Square border"
+msgstr ""
+
+#: admin/components/others.php:214 admin/components/others.php:353
+#: admin/components/others.php:364 admin/components/others.php:404
+#: admin/components/others.php:486 admin/components/others.php:497
+#: admin/components/others.php:508 admin/components/others.php:619
+#: admin/components/others.php:631 admin/components/others.php:705
+#: admin/components/others.php:717 admin/components/post_types.php:215
+#: admin/components/post_types.php:448 admin/components/post_types.php:623
+#: admin/components/post_types.php:742 admin/composer.php:118
+msgid "Extra small"
+msgstr ""
+
+#: admin/components/others.php:223
+msgid "Full"
+msgstr ""
+
+#: admin/components/others.php:227
+msgid "Animated"
+msgstr ""
+
+#: admin/components/others.php:277 admin/components/titles.php:34
+msgid "Base"
+msgstr ""
+
+#: admin/components/others.php:278
+msgid "Base 2"
+msgstr ""
+
+#: admin/components/others.php:279
+msgid "Base small"
+msgstr ""
+
+#: admin/components/others.php:280 admin/components/others.php:591
+#: admin/components/others.php:662 admin/composer-side.php:287
+#: admin/composer-side.php:866
+msgid "Icon"
+msgstr ""
+
+#: admin/components/others.php:281
+msgid "Background icon"
+msgstr ""
+
+#: admin/components/others.php:282
+msgid "Modern"
+msgstr ""
+
+#: admin/components/others.php:294
+msgid "Hide scroll top"
+msgstr ""
+
+#: admin/components/others.php:325 admin/components/others.php:558
+#: admin/components/others.php:1881 admin/components/post_types.php:772
+#: admin/composer-side.php:364 admin/composer.php:827
+msgid "Horizontal"
+msgstr ""
+
+#: admin/components/others.php:326 admin/components/others.php:1882
+#: admin/components/post_types.php:773 admin/composer-side.php:363
+#: admin/composer.php:828
+msgid "Vertical"
+msgstr ""
+
+#: admin/components/others.php:347 admin/components/others.php:501
+#: admin/components/others.php:710
+msgid "Text size"
+msgstr ""
+
+#: admin/components/others.php:349 admin/components/others.php:360
+#: admin/components/others.php:400 admin/components/others.php:482
+#: admin/components/others.php:493 admin/components/others.php:504
+#: admin/components/others.php:615 admin/components/others.php:627
+#: admin/components/others.php:701 admin/components/others.php:713
+#: admin/components/post_types.php:210 admin/components/post_types.php:443
+#: admin/components/post_types.php:618 admin/components/post_types.php:737
+msgid "Extra large"
+msgstr ""
+
+#: admin/components/others.php:358 admin/components/others.php:479
+msgid "Icon size"
+msgstr ""
+
+#: admin/components/others.php:411
+msgid "Icons"
+msgstr ""
+
+#: admin/components/others.php:412
+msgid "Decimal"
+msgstr ""
+
+#: admin/components/others.php:413 admin/composer-side.php:289
+msgid "Dots"
+msgstr ""
+
+#: admin/components/others.php:439 admin/components/others.php:1113
+msgid "Classic big"
+msgstr ""
+
+#: admin/components/others.php:440 admin/components/others.php:1114
+msgid "Circle toolstip"
+msgstr ""
+
+#: admin/components/others.php:441 admin/components/others.php:1115
+msgid "Circle toolstip big"
+msgstr ""
+
+#: admin/components/others.php:442 admin/components/others.php:1116
+msgid "Simple icons"
+msgstr ""
+
+#: admin/components/others.php:443 admin/components/others.php:1117
+msgid "Social button"
+msgstr ""
+
+#: admin/components/others.php:444 admin/components/others.php:1118
+msgid "Social button 2"
+msgstr ""
+
+#: admin/components/others.php:451 admin/components/others.php:1144
+msgid "Social colors"
+msgstr ""
+
+#: admin/components/others.php:481 admin/components/others.php:614
+#: admin/components/others.php:626 admin/components/others.php:700
+#: admin/components/others.php:712
+msgid "Ultra large"
+msgstr ""
+
+#: admin/components/others.php:490 admin/components/post_types.php:208
+#: admin/components/post_types.php:441 admin/components/post_types.php:616
+#: admin/components/post_types.php:735
+msgid "Title size"
+msgstr ""
+
+#: admin/components/others.php:541
+msgid "Extra"
+msgstr ""
+
+#: admin/components/others.php:556
+msgid "Bold"
+msgstr ""
+
+#: admin/components/others.php:557
+msgid "Underline"
+msgstr ""
+
+#: admin/components/others.php:564
+msgid "Images"
+msgstr ""
+
+#: admin/components/others.php:578
+msgid "Count to"
+msgstr ""
+
+#: admin/components/others.php:590 admin/components/others.php:660
+#: admin/components/others.php:743
+msgid "Simple"
+msgstr ""
+
+#: admin/components/others.php:592
+msgid "Icon horizontal"
+msgstr ""
+
+#: admin/components/others.php:596
+msgid "Start number"
+msgstr ""
+
+#: admin/components/others.php:600 admin/components/others.php:1042
+#: admin/composer-side.php:264
+msgid "Speed"
+msgstr ""
+
+#: admin/components/others.php:604
+msgid "Refresh interval"
+msgstr ""
+
+#: admin/components/others.php:608
+msgid "Before"
+msgstr ""
+
+#: admin/components/others.php:612 admin/components/others.php:698
+msgid "Numbers size"
+msgstr ""
+
+#: admin/components/others.php:647
+msgid "Date time"
+msgstr ""
+
+#: admin/components/others.php:648
+msgid "mm/dd/yyyy hh:mm:ss"
+msgstr ""
+
+#: admin/components/others.php:661
+msgid "Simple column"
+msgstr ""
+
+#: admin/components/others.php:666
+msgid "UTC offset"
+msgstr ""
+
+#: admin/components/others.php:670
+msgid "Show days"
+msgstr ""
+
+#: admin/components/others.php:675
+msgid "Show hours"
+msgstr ""
+
+#: admin/components/others.php:680
+msgid "Show minutes"
+msgstr ""
+
+#: admin/components/others.php:685
+msgid "Show seconds"
+msgstr ""
+
+#: admin/components/others.php:690
+msgid "Before text"
+msgstr ""
+
+#: admin/components/others.php:694
+msgid "After content"
+msgstr ""
+
+#: admin/components/others.php:735
+msgid "Progress from 0 to 100"
+msgstr ""
+
+#: admin/components/others.php:744 admin/components/others.php:1642
+msgid "Striped"
+msgstr ""
+
+#: admin/components/others.php:748
+msgid "Title position"
+msgstr ""
+
+#: admin/components/others.php:757
+msgid "Progress position"
+msgstr ""
+
+#: admin/components/others.php:759
+msgid "Inner"
+msgstr ""
+
+#: admin/components/others.php:760
+msgid "Outer"
+msgstr ""
+
+#: admin/components/others.php:764
+msgid "Progress text"
+msgstr ""
+
+#: admin/components/others.php:781
+msgid "0-100"
+msgstr ""
+
+#: admin/components/others.php:795
+msgid "Line width"
+msgstr ""
+
+#: admin/components/others.php:803
+msgid "Hide percentage"
+msgstr ""
+
+#: admin/components/others.php:807
+msgid "Unit text"
+msgstr ""
+
+#: admin/components/others.php:826
+msgid "Start angle"
+msgstr ""
+
+#: admin/components/others.php:830
+msgid "Reverse"
+msgstr ""
+
+#: admin/components/others.php:834
+msgid "Line cap"
+msgstr ""
+
+#: admin/components/others.php:836
+msgid "Butt"
+msgstr ""
+
+#: admin/components/others.php:837
+msgid "Round"
+msgstr ""
+
+#: admin/components/others.php:842
+msgid "Fill"
+msgstr ""
+
+#: admin/components/others.php:850
+msgid "Animation start"
+msgstr ""
+
+#: admin/components/others.php:881 admin/components/post_types.php:890
+msgid "Date"
+msgstr ""
+
+#: admin/components/others.php:885 admin/components/others.php:1962
+msgid "Label"
+msgstr ""
+
+#: admin/components/others.php:904 admin/components/sections.php:300
+msgid "Map coordinates"
+msgstr ""
+
+#: admin/components/others.php:911 admin/components/sections.php:316
+msgid "Map height"
+msgstr ""
+
+#: admin/components/others.php:915 admin/components/sections.php:320
+msgid "Map address"
+msgstr ""
+
+#: admin/components/others.php:919 admin/components/sections.php:324
+msgid "Map zoom"
+msgstr ""
+
+#: admin/components/others.php:923 admin/components/sections.php:328
+msgid "Marker image"
+msgstr ""
+
+#: admin/components/others.php:930 admin/components/sections.php:335
+msgid "Marker position"
+msgstr ""
+
+#: admin/components/others.php:935 admin/components/sections.php:339
+msgid "Center top"
+msgstr ""
+
+#: admin/components/others.php:936 admin/components/others.php:2272
+#: admin/components/sections.php:340
+msgid "Center bottom"
+msgstr ""
+
+#: admin/components/others.php:940 admin/components/sections.php:345
+msgid "Marker top offset"
+msgstr ""
+
+#: admin/components/others.php:944 admin/components/sections.php:349
+msgid "Marker left offset"
+msgstr ""
+
+#: admin/components/others.php:948 admin/components/sections.php:353
+msgid "Map skin"
+msgstr ""
+
+#: admin/components/others.php:951 admin/components/sections.php:356
+#: admin/components/sections.php:474
+msgid "Gray"
+msgstr ""
+
+#: admin/components/others.php:952 admin/components/sections.php:357
+msgid "Black"
+msgstr ""
+
+#: admin/components/others.php:953 admin/components/sections.php:358
+msgid "Green"
+msgstr ""
+
+#: admin/components/others.php:988
+msgid "Container type"
+msgstr ""
+
+#: admin/components/others.php:1004
+msgid "Access token"
+msgstr ""
+
+#: admin/components/others.php:1008
+msgid "Hide comments"
+msgstr ""
+
+#: admin/components/others.php:1034 admin/components/others.php:1083
+msgid "Limit"
+msgstr ""
+
+#: admin/components/others.php:1038
+msgid "Timeout"
+msgstr ""
+
+#: admin/components/others.php:1046
+msgid "Effect"
+msgstr ""
+
+#: admin/components/others.php:1048 admin/composer.php:820
+msgid "Slide"
+msgstr ""
+
+#: admin/components/others.php:1049 admin/composer.php:821
+msgid "Fade"
+msgstr ""
+
+#: admin/components/others.php:1054
+msgid "Locale"
+msgstr ""
+
+#: admin/components/others.php:1058
+msgid "Avatar size"
+msgstr ""
+
+#: admin/components/others.php:1067
+msgid "Message length"
+msgstr ""
+
+#: admin/components/others.php:1071
+msgid "Show guest entries"
+msgstr ""
+
+#: admin/components/others.php:1087
+msgid "Profile image"
+msgstr ""
+
+#: admin/components/others.php:1091
+msgid "Show time"
+msgstr ""
+
+#: admin/components/others.php:1095
+msgid "Show media"
+msgstr ""
+
+#: admin/components/others.php:1099
+msgid "Show retweeted text"
+msgstr ""
+
+#: admin/components/others.php:1135 admin/components/others.php:1141
+#: admin/components/post_types.php:902
+msgid "Share"
+msgstr ""
+
+#: admin/components/others.php:1152 admin/components/others.php:1160
+#: admin/components/others.php:1168 admin/components/others.php:1176
+msgid "link"
+msgstr ""
+
+#: admin/components/others.php:1196
+msgid "Single quote"
+msgstr ""
+
+#: admin/components/others.php:1197
+msgid "Double quote"
+msgstr ""
+
+#: admin/components/others.php:1201 admin/components/post_types.php:898
+msgid "Author"
+msgstr ""
+
+#: admin/components/others.php:1237 admin/composer.php:395
+msgid "Space"
+msgstr ""
+
+#: admin/components/others.php:1238
+msgid "Space l"
+msgstr ""
+
+#: admin/components/others.php:1239
+msgid "Space m"
+msgstr ""
+
+#: admin/components/others.php:1240
+msgid "Space s"
+msgstr ""
+
+#: admin/components/others.php:1241
+msgid "Space xs"
+msgstr ""
+
+#: admin/components/others.php:1248
+msgid "Custom height"
+msgstr ""
+
+#: admin/components/others.php:1275 admin/components/others.php:1295
+#: admin/components/others.php:1298 admin/components/others.php:1325
+#: admin/components/others.php:1328 admin/components/others.php:1331
+#: admin/components/others.php:1361 admin/components/others.php:1364
+#: admin/components/others.php:1367 admin/components/others.php:1370
+#: admin/components/others.php:1403 admin/components/others.php:1406
+#: admin/components/others.php:1409 admin/components/others.php:1412
+#: admin/components/others.php:1415 admin/components/others.php:1451
+#: admin/components/others.php:1454 admin/components/others.php:1457
+#: admin/components/others.php:1460 admin/components/others.php:1463
+#: admin/components/others.php:1466 admin/components/others.php:1505
+#: admin/components/others.php:1508 admin/components/others.php:1511
+#: admin/components/others.php:1514 admin/components/others.php:1517
+#: admin/components/others.php:1520 admin/components/others.php:1565
+#: admin/components/others.php:1568 admin/components/others.php:1571
+#: admin/components/others.php:1574 admin/components/others.php:1577
+#: admin/components/others.php:1580 admin/components/others.php:1583
+#: admin/components/others.php:1586 admin/components/others.php:1667
+msgid "Header"
+msgstr ""
+
+#: admin/components/others.php:1643
+msgid "Bordered"
+msgstr ""
+
+#: admin/components/others.php:1644
+msgid "Condensed"
+msgstr ""
+
+#: admin/components/others.php:1648
+msgid "Advanced"
+msgstr ""
+
+#: admin/components/others.php:1664 admin/composer.php:581
+msgid "Navigation"
+msgstr ""
+
+#: admin/components/others.php:1666
+msgid "Header and footer"
+msgstr ""
+
+#: admin/components/others.php:1673
+msgid "Padding"
+msgstr ""
+
+#: admin/components/others.php:1677
+msgid "Column Selection"
+msgstr ""
+
+#: admin/components/others.php:1681
+msgid "Row Selection"
+msgstr ""
+
+#: admin/components/others.php:1685
+msgid "Multi select"
+msgstr ""
+
+#: admin/components/others.php:1689
+msgid "Sorting"
+msgstr ""
+
+#: admin/components/others.php:1693
+msgid "Multi sorting"
+msgstr ""
+
+#: admin/components/others.php:1697
+msgid "Keep selection"
+msgstr ""
+
+#: admin/components/others.php:1701
+msgid "Data service URL"
+msgstr ""
+
+#: admin/components/others.php:1705
+msgid "Case sensitive"
+msgstr ""
+
+#: admin/components/others.php:1709
+msgid "Request handler"
+msgstr ""
+
+#: admin/components/others.php:1713
+msgid "Response handler"
+msgstr ""
+
+#: admin/components/others.php:1731 admin/components/others.php:1865
+#: admin/composer-side.php:577 admin/composer-side.php:619
+msgid "Menu item name"
+msgstr ""
+
+#: admin/components/others.php:1738 admin/components/post_types.php:830
+#: admin/composer-side.php:584 admin/composer-side.php:626
+msgid "Items"
+msgstr ""
+
+#: admin/components/others.php:1758 admin/composer-side.php:605
+msgid "Add a new section for every menu item"
+msgstr ""
+
+#: admin/components/others.php:1773
+msgid "Scrolling speed"
+msgstr ""
+
+#: admin/components/others.php:1777
+msgid "Auto scrolling"
+msgstr ""
+
+#: admin/components/others.php:1781
+msgid "Fit to section"
+msgstr ""
+
+#: admin/components/others.php:1785
+msgid "Fit to section delay"
+msgstr ""
+
+#: admin/components/others.php:1789
+msgid "Scroll bar"
+msgstr ""
+
+#: admin/components/others.php:1793
+msgid "Easing"
+msgstr ""
+
+#: admin/components/others.php:1797
+msgid "Easing CSS3"
+msgstr ""
+
+#: admin/components/others.php:1801
+msgid "Loop bottom"
+msgstr ""
+
+#: admin/components/others.php:1805
+msgid "Loop top"
+msgstr ""
+
+#: admin/components/others.php:1809
+msgid "Loop horizontal"
+msgstr ""
+
+#: admin/components/others.php:1813
+msgid "Continuous vertical"
+msgstr ""
+
+#: admin/components/others.php:1817
+msgid "Normal elements"
+msgstr ""
+
+#: admin/components/others.php:1821
+msgid "Scroll overflow"
+msgstr ""
+
+#: admin/components/others.php:1825
+msgid "Touch sensitivity"
+msgstr ""
+
+#: admin/components/others.php:1829
+msgid "Keyboard scrolling"
+msgstr ""
+
+#: admin/components/others.php:1833
+msgid "Animate anchor"
+msgstr ""
+
+#: admin/components/others.php:1837
+msgid "Record history"
+msgstr ""
+
+#: admin/components/others.php:1841
+msgid "Control arrows"
+msgstr ""
+
+#: admin/components/others.php:1845
+msgid "Resize"
+msgstr ""
+
+#: admin/components/others.php:1849
+msgid "Mobile fullpage"
+msgstr ""
+
+#: admin/components/others.php:1902
+msgid "Automatic"
+msgstr ""
+
+#: admin/components/others.php:1920
+msgid "Textarea"
+msgstr ""
+
+#: admin/components/others.php:1921
+msgid "Email"
+msgstr ""
+
+#: admin/components/others.php:1922
+msgid "Select 0-10"
+msgstr ""
+
+#: admin/components/others.php:1923
+msgid "Number"
+msgstr ""
+
+#: admin/components/others.php:1924
+msgid "Calendar"
+msgstr ""
+
+#: admin/components/others.php:1954
+msgid "Recipient's email"
+msgstr ""
+
+#: admin/components/others.php:1955
+msgid "your-email@domain.com"
+msgstr ""
+
+#: admin/components/others.php:1958
+msgid "Subject"
+msgstr ""
+
+#: admin/components/others.php:1966
+msgid "Placeholder"
+msgstr ""
+
+#: admin/components/others.php:1971
+msgid "Button position"
+msgstr ""
+
+#: admin/components/others.php:1976
+msgid "Inline"
+msgstr ""
+
+#: admin/components/others.php:1980
+msgid "Button icon"
+msgstr ""
+
+#: admin/components/others.php:1984
+msgid "Recaptcha key"
+msgstr ""
+
+#: admin/components/others.php:1988
+msgid "Success message"
+msgstr ""
+
+#: admin/components/others.php:1992
+msgid "Error message"
+msgstr ""
+
+#: admin/components/others.php:2017
+msgid "Not insert any <script></script> or <style></style> tag"
+msgstr ""
+
+#: admin/components/others.php:2020
+msgid "Language"
+msgstr ""
+
+#: admin/components/others.php:2022
+msgid "Generic"
+msgstr ""
+
+#: admin/components/others.php:2065 admin/components/others.php:2085
+#: admin/components/others.php:2105 admin/components/others.php:2125
+#: admin/components/others.php:2145 admin/components/others.php:2165
+#: admin/components/others.php:2185 admin/components/others.php:2205
+msgid "Slide name"
+msgstr ""
+
+#: admin/components/others.php:2239 admin/composer-side.php:310
+msgid "Arrows"
+msgstr ""
+
+#: admin/components/others.php:2242
+msgid "Only next"
+msgstr ""
+
+#: admin/components/others.php:2243 admin/components/post_types.php:194
+#: admin/components/post_types.php:427 admin/components/post_types.php:602
+#: admin/components/post_types.php:721 admin/components/post_types.php:794
+#: components/containers.php:445
+msgid "All"
+msgstr ""
+
+#: admin/components/others.php:2247
+msgid "Left arrow text"
+msgstr ""
+
+#: admin/components/others.php:2251
+msgid "Right arrow text"
+msgstr ""
+
+#: admin/components/others.php:2273
+msgid "Left bottom"
+msgstr ""
+
+#: admin/components/others.php:2274
+msgid "Right bottom"
+msgstr ""
+
+#: admin/components/others.php:2278
+msgid "Menu margins"
+msgstr ""
+
+#: admin/components/post_types.php:60 admin/components/post_types.php:268
+#: admin/components/post_types.php:501 admin/components/post_types.php:642
+#: admin/components/post_types.php:761 admin/components/post_types.php:806
+#: admin/components/post_types.php:843 admin/components/post_types.php:873
+msgid "Post type"
+msgstr ""
+
+#: admin/components/post_types.php:68
+msgid "Grid options"
+msgstr ""
+
+#: admin/components/post_types.php:70 admin/components/post_types.php:278
+#: admin/components/post_types.php:507 admin/components/post_types.php:648
+msgid "Category"
+msgstr ""
+
+#: admin/components/post_types.php:89 admin/components/post_types.php:90
+#: admin/components/post_types.php:91 admin/components/post_types.php:92
+#: admin/components/post_types.php:93 admin/components/post_types.php:94
+#: admin/components/post_types.php:95 admin/components/post_types.php:96
+#: admin/components/post_types.php:97 admin/components/post_types.php:98
+#: admin/components/post_types.php:99 admin/components/post_types.php:100
+#: admin/components/post_types.php:101 admin/components/post_types.php:102
+#: admin/components/post_types.php:103 admin/components/post_types.php:104
+#: admin/components/post_types.php:105 admin/components/post_types.php:106
+#: admin/components/post_types.php:107 admin/components/post_types.php:108
+#: admin/components/post_types.php:109 admin/components/post_types.php:110
+#: admin/components/post_types.php:297 admin/components/post_types.php:298
+#: admin/components/post_types.php:299 admin/components/post_types.php:300
+#: admin/components/post_types.php:301 admin/components/post_types.php:302
+#: admin/components/post_types.php:303 admin/components/post_types.php:304
+#: admin/components/post_types.php:305 admin/components/post_types.php:306
+#: admin/components/post_types.php:307 admin/components/post_types.php:308
+#: admin/components/post_types.php:309 admin/components/post_types.php:310
+#: admin/components/post_types.php:311 admin/components/post_types.php:312
+#: admin/components/post_types.php:313 admin/components/post_types.php:314
+#: admin/components/post_types.php:315 admin/components/post_types.php:316
+#: admin/components/post_types.php:317 admin/components/post_types.php:318
+msgid "Row"
+msgstr ""
+
+#: admin/components/post_types.php:118 admin/components/post_types.php:326
+msgid "Pagination type"
+msgstr ""
+
+#: admin/components/post_types.php:122 admin/components/post_types.php:330
+msgid "HTML Pagination"
+msgstr ""
+
+#: admin/components/post_types.php:123 admin/components/post_types.php:331
+msgid "HTML Load more"
+msgstr ""
+
+#: admin/components/post_types.php:137 admin/components/post_types.php:345
+msgid "Navigation size"
+msgstr ""
+
+#: admin/components/post_types.php:144 admin/components/post_types.php:377
+#: admin/components/post_types.php:546 admin/components/post_types.php:665
+msgid "Box options"
+msgstr ""
+
+#: admin/components/post_types.php:146 admin/components/post_types.php:379
+#: admin/components/post_types.php:548 admin/components/post_types.php:667
+msgid "Box"
+msgstr ""
+
+#: admin/components/post_types.php:153 admin/components/post_types.php:386
+#: admin/components/post_types.php:555 admin/components/post_types.php:674
+msgid "Blog side"
+msgstr ""
+
+#: admin/components/post_types.php:154 admin/components/post_types.php:387
+#: admin/components/post_types.php:556 admin/components/post_types.php:675
+msgid "Blog full width"
+msgstr ""
+
+#: admin/components/post_types.php:155 admin/components/post_types.php:388
+#: admin/components/post_types.php:557 admin/components/post_types.php:676
+msgid "Blog full width 2"
+msgstr ""
+
+#: admin/components/post_types.php:156 admin/components/post_types.php:389
+#: admin/components/post_types.php:558 admin/components/post_types.php:677
+msgid "Team"
+msgstr ""
+
+#: admin/components/post_types.php:157 admin/components/post_types.php:390
+#: admin/components/post_types.php:559 admin/components/post_types.php:678
+msgid "Image half content"
+msgstr ""
+
+#: admin/components/post_types.php:158 admin/components/post_types.php:391
+#: admin/components/post_types.php:560 admin/components/post_types.php:679
+msgid "Image side content"
+msgstr ""
+
+#: admin/components/post_types.php:159 admin/components/post_types.php:392
+#: admin/components/post_types.php:561 admin/components/post_types.php:680
+msgid "Image full content"
+msgstr ""
+
+#: admin/components/post_types.php:160 admin/components/post_types.php:393
+#: admin/components/post_types.php:562 admin/components/post_types.php:681
+msgid "Image buttons content"
+msgstr ""
+
+#: admin/components/post_types.php:161 admin/components/post_types.php:394
+#: admin/components/post_types.php:563 admin/components/post_types.php:682
+msgid "Image down text"
+msgstr ""
+
+#: admin/components/post_types.php:162 admin/components/post_types.php:395
+#: admin/components/post_types.php:564 admin/components/post_types.php:683
+msgid "Image classic box"
+msgstr ""
+
+#: admin/components/post_types.php:163 admin/components/post_types.php:396
+#: admin/components/post_types.php:565 admin/components/post_types.php:684
+msgid "Image circle center"
+msgstr ""
+
+#: admin/components/post_types.php:164 admin/components/post_types.php:397
+#: admin/components/post_types.php:566 admin/components/post_types.php:685
+msgid "Image circle center 2"
+msgstr ""
+
+#: admin/components/post_types.php:165 admin/components/post_types.php:398
+#: admin/components/post_types.php:567 admin/components/post_types.php:686
+msgid "Image circle half"
+msgstr ""
+
+#: admin/components/post_types.php:166 admin/components/post_types.php:399
+#: admin/components/post_types.php:568 admin/components/post_types.php:687
+msgid "Image circle bottom"
+msgstr ""
+
+#: admin/components/post_types.php:167 admin/components/post_types.php:400
+#: admin/components/post_types.php:569 admin/components/post_types.php:688
+msgid "Image circle background"
+msgstr ""
+
+#: admin/components/post_types.php:184 admin/components/post_types.php:417
+#: admin/components/post_types.php:592 admin/components/post_types.php:711
+msgid "Show extra 1"
+msgstr ""
+
+#: admin/components/post_types.php:188 admin/components/post_types.php:421
+#: admin/components/post_types.php:596 admin/components/post_types.php:715
+msgid "Show extra 2"
+msgstr ""
+
+#: admin/components/post_types.php:192 admin/components/post_types.php:425
+#: admin/components/post_types.php:600 admin/components/post_types.php:719
+msgid "Content"
+msgstr ""
+
+#: admin/components/post_types.php:196 admin/components/post_types.php:429
+#: admin/composer-side.php:854
+msgid "Excerpt"
+msgstr ""
+
+#: admin/components/post_types.php:200 admin/components/post_types.php:433
+#: admin/components/post_types.php:608 admin/components/post_types.php:727
+msgid "Title length"
+msgstr ""
+
+#: admin/components/post_types.php:204 admin/components/post_types.php:437
+#: admin/components/post_types.php:612 admin/components/post_types.php:731
+msgid "Excerpt length"
+msgstr ""
+
+#: admin/components/post_types.php:225 admin/components/post_types.php:458
+#: admin/components/post_types.php:627 admin/components/post_types.php:746
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/components/post_types.php:228 admin/components/post_types.php:461
+msgid "Pagination options"
+msgstr ""
+
+#: admin/components/post_types.php:238 admin/components/post_types.php:471
+msgid "Prev text"
+msgstr ""
+
+#: admin/components/post_types.php:242 admin/components/post_types.php:475
+#: admin/components/post_types.php:860
+msgid "Next text"
+msgstr ""
+
+#: admin/components/post_types.php:245 admin/components/post_types.php:478
+msgid "Load more options"
+msgstr ""
+
+#: admin/components/post_types.php:276
+msgid "Masonry options"
+msgstr ""
+
+#: admin/components/post_types.php:515
+msgid "Slider options"
+msgstr ""
+
+#: admin/components/post_types.php:517 admin/components/post_types.php:658
+#: admin/composer.php:869
+msgid "Items number"
+msgstr ""
+
+#: admin/components/post_types.php:532
+msgid "Visible arrows"
+msgstr ""
+
+#: admin/components/post_types.php:604 admin/components/post_types.php:723
+msgid "Description"
+msgstr ""
+
+#: admin/components/post_types.php:656
+msgid "Coverflow options"
+msgstr ""
+
+#: admin/components/post_types.php:793
+msgid "All button text"
+msgstr ""
+
+#: admin/components/post_types.php:808
+msgid "Posts"
+msgstr ""
+
+#: admin/components/post_types.php:815
+msgid "Order by"
+msgstr ""
+
+#: admin/components/post_types.php:818
+msgid "Count"
+msgstr ""
+
+#: admin/components/post_types.php:823 admin/composer.php:708
+msgid "Order"
+msgstr ""
+
+#: admin/components/post_types.php:825
+msgid "Asc"
+msgstr ""
+
+#: admin/components/post_types.php:826
+msgid "Desc"
+msgstr ""
+
+#: admin/components/post_types.php:852
+msgid "Archive link"
+msgstr ""
+
+#: admin/components/post_types.php:856
+msgid "Previous text"
+msgstr ""
+
+#: admin/components/post_types.php:857
+msgid "Previous"
+msgstr ""
+
+#: admin/components/post_types.php:875
+msgid "Current post"
+msgstr ""
+
+#: admin/components/post_types.php:894 admin/widgets.php:15
+#: admin/widgets.php:18 index.php:871
+msgid "Categories"
+msgstr ""
+
+#: admin/components/sections.php:29 admin/components/sections.php:276
+#: admin/components/sections.php:376 admin/components/sections.php:496
+msgid "Container"
+msgstr ""
+
+#: admin/components/sections.php:62 admin/components/titles.php:35
+msgid "Empty"
+msgstr ""
+
+#: admin/components/sections.php:88 admin/components/sections.php:142
+#: admin/components/sections.php:183 admin/components/titles.php:51
+#: admin/components/titles.php:115 admin/components/titles.php:173
+msgid "Fullscreen"
+msgstr ""
+
+#: admin/components/sections.php:92 admin/components/sections.php:146
+#: admin/components/sections.php:187
+msgid "Height overflow"
+msgstr ""
+
+#: admin/components/sections.php:100 admin/components/sections.php:259
+#: admin/components/sections.php:424 admin/components/titles.php:66
+msgid "Bleed"
+msgstr ""
+
+#: admin/components/sections.php:104 admin/components/titles.php:70
+msgid "Ken-burn animation"
+msgstr ""
+
+#: admin/components/sections.php:116 admin/components/sections.php:153
+#: admin/components/sections.php:194 admin/components/titles.php:82
+#: admin/components/titles.php:133 admin/components/titles.php:191
+msgid "Dotted"
+msgstr ""
+
+#: admin/components/sections.php:117 admin/components/sections.php:154
+#: admin/components/sections.php:195 admin/components/titles.php:83
+#: admin/components/titles.php:134 admin/components/titles.php:192
+msgid "Line 45"
+msgstr ""
+
+#: admin/components/sections.php:118 admin/components/sections.php:155
+#: admin/components/sections.php:196 admin/components/titles.php:84
+#: admin/components/titles.php:135 admin/components/titles.php:193
+msgid "Carbonio"
+msgstr ""
+
+#: admin/components/sections.php:119 admin/components/sections.php:156
+#: admin/components/sections.php:197 admin/components/titles.php:85
+#: admin/components/titles.php:136 admin/components/titles.php:194
+msgid "Tile"
+msgstr ""
+
+#: admin/components/sections.php:120 admin/components/sections.php:157
+#: admin/components/titles.php:86 admin/components/titles.php:137
+#: admin/components/titles.php:195
+msgid "Transparent dark"
+msgstr ""
+
+#: admin/components/sections.php:121 admin/components/sections.php:158
+#: admin/components/sections.php:199 admin/components/titles.php:87
+#: admin/components/titles.php:138 admin/components/titles.php:196
+msgid "Transparent light"
+msgstr ""
+
+#: admin/components/sections.php:122 admin/components/sections.php:159
+#: admin/components/sections.php:200 admin/components/titles.php:88
+#: admin/components/titles.php:139 admin/components/titles.php:197
+msgid "Tv"
+msgstr ""
+
+#: admin/components/sections.php:123 admin/components/sections.php:160
+#: admin/components/sections.php:201 admin/components/titles.php:89
+#: admin/components/titles.php:140 admin/components/titles.php:198
+msgid "Squares"
+msgstr ""
+
+#: admin/components/sections.php:198
+msgid "Transparent-dark"
+msgstr ""
+
+#: admin/components/sections.php:216 admin/components/titles.php:223
+msgid "Background Image"
+msgstr ""
+
+#: admin/components/sections.php:225 admin/components/titles.php:232
+msgid "Main image - PNG"
+msgstr ""
+
+#: admin/components/sections.php:237 admin/components/titles.php:244
+#: admin/components/titles.php:253
+msgid "Animation image"
+msgstr ""
+
+#: admin/components/sections.php:239 admin/components/sections.php:248
+#: admin/components/titles.php:246
+msgid "Clouds 1"
+msgstr ""
+
+#: admin/components/sections.php:240 admin/components/sections.php:249
+#: admin/components/titles.php:247
+msgid "Clouds 2"
+msgstr ""
+
+#: admin/components/sections.php:241 admin/components/sections.php:250
+#: admin/components/titles.php:248
+msgid "Fog 1"
+msgstr ""
+
+#: admin/components/sections.php:242 admin/components/sections.php:251
+#: admin/components/titles.php:249
+msgid "Fog 2"
+msgstr ""
+
+#: admin/components/sections.php:246
+msgid "Animation image 2"
+msgstr ""
+
+#: admin/components/sections.php:274
+msgid "Section map"
+msgstr ""
+
+#: admin/components/sections.php:307
+msgid "Map box position"
+msgstr ""
+
+#: admin/components/sections.php:374
+msgid "Section two blocks"
+msgstr ""
+
+#: admin/components/sections.php:472
+msgid "Skin"
+msgstr ""
+
+#: admin/components/sections.php:475 admin/components/titles.php:97
+#: admin/components/titles.php:148 admin/components/titles.php:206
+#: admin/components/titles.php:273 admin/components/titles.php:300
+msgid "White"
+msgstr ""
+
+#: admin/components/sections.php:494
+msgid "Section blocks"
+msgstr ""
+
+#: admin/components/titles.php:23
+msgid "Insert subtitle here ..."
+msgstr ""
+
+#: admin/components/titles.php:55 admin/components/titles.php:119
+#: admin/components/titles.php:177 admin/composer-side.php:356
+msgid "Offset"
+msgstr ""
+
+#: admin/components/titles.php:93 admin/components/titles.php:144
+#: admin/components/titles.php:202 admin/components/titles.php:269
+#: admin/components/titles.php:296 admin/composer.php:431
+msgid "Breadcrumbs"
+msgstr ""
+
+#: admin/components/titles.php:255 admin/components/titles.php:256
+msgid "Clouds"
+msgstr ""
+
+#: admin/components/titles.php:257 admin/components/titles.php:258
+msgid "Fog"
+msgstr ""
+
+#: admin/composer-side.php:21
+msgid "Composer"
+msgstr ""
+
+#: admin/composer-side.php:28
+msgid "Templates"
+msgstr ""
+
+#: admin/composer-side.php:36
+msgid "Save changes"
+msgstr ""
+
+#: admin/composer-side.php:44
+msgid "Composer Templates"
+msgstr ""
+
+#: admin/composer-side.php:49 admin/composer-side.php:63
+msgid "My Templates"
+msgstr ""
+
+#: admin/composer-side.php:50
+msgid "Built-in Templates"
+msgstr ""
+
+#: admin/composer-side.php:57
+msgid "Save current page as a template"
+msgstr ""
+
+#: admin/composer-side.php:59
+msgid "Template name"
+msgstr ""
+
+#: admin/composer-side.php:60
+msgid "Save template"
+msgstr ""
+
+#: admin/composer-side.php:84
+msgid "No templates available."
+msgstr ""
+
+#: admin/composer-side.php:96
+msgid "Delete all content"
+msgstr ""
+
+#: admin/composer-side.php:103
+msgid "Page options"
+msgstr ""
+
+#: admin/composer-side.php:247
+msgid "Save settings"
+msgstr ""
+
+#: admin/composer-side.php:274
+msgid "Center offset"
+msgstr ""
+
+#: admin/composer-side.php:288
+msgid "Icon text"
+msgstr ""
+
+#: admin/composer-side.php:302
+msgid "Menu logo"
+msgstr ""
+
+#: admin/composer-side.php:305
+msgid "On scroll"
+msgstr ""
+
+#: admin/composer-side.php:313
+msgid "Next only"
+msgstr ""
+
+#: admin/composer-side.php:314
+msgid "Next and previous"
+msgstr ""
+
+#: admin/composer-side.php:318
+msgid "Arrow text 1"
+msgstr ""
+
+#: admin/composer-side.php:319
+msgid "Back"
+msgstr ""
+
+#: admin/composer-side.php:322
+msgid "Arrow text 2"
+msgstr ""
+
+#: admin/composer-side.php:326
+msgid "Arrows position"
+msgstr ""
+
+#: admin/composer-side.php:334
+msgid "Arrows style"
+msgstr ""
+
+#: admin/composer-side.php:342
+msgid "Single bg"
+msgstr ""
+
+#: admin/composer-side.php:346
+msgid "Hide header"
+msgstr ""
+
+#: admin/composer-side.php:458 admin/composer-side.php:534
+msgid "Expiration"
+msgstr ""
+
+#: admin/composer-side.php:480 admin/composer-side.php:556
+msgid "Save"
+msgstr ""
+
+#: admin/composer-side.php:487
+msgid "Popup"
+msgstr ""
+
+#: admin/composer-side.php:523
+msgid "Bottom right"
+msgstr ""
+
+#: admin/composer-side.php:524
+msgid "Bottom left"
+msgstr ""
+
+#: admin/composer-side.php:525
+msgid "Top right"
+msgstr ""
+
+#: admin/composer-side.php:641
+msgid "Add a new section for every menu item. First is for main title content."
+msgstr ""
+
+#: admin/composer-side.php:790
+msgid "Plural name"
+msgstr ""
+
+#: admin/composer-side.php:795
+msgid "Singular Name"
+msgstr ""
+
+#: admin/composer-side.php:796
+msgid "Singual name"
+msgstr ""
+
+#: admin/composer-side.php:801
+msgid "Unique ID"
+msgstr ""
+
+#: admin/composer-side.php:802
+msgid "Must be unique and alphanumeric only"
+msgstr ""
+
+#: admin/composer-side.php:812
+msgid "View archive"
+msgstr ""
+
+#: admin/composer-side.php:813
+msgid "Edit items"
+msgstr ""
+
+#: admin/composer-side.php:817
+msgid "Archive page"
+msgstr ""
+
+#: admin/composer-side.php:827
+msgid "Name, singular name and id are required."
+msgstr ""
+
+#: admin/composer-side.php:830
+msgid "Single item template"
+msgstr ""
+
+#: admin/composer-side.php:832
+msgid ""
+"Create the single item template here. Add the components you want, usually "
+"without contents, and you're done. Every item of your list will use this "
+"template."
+msgstr ""
+
+#: admin/composer-side.php:858
+msgid "Extra 1"
+msgstr ""
+
+#: admin/composer-side.php:862
+msgid "Extra 2"
+msgstr ""
+
+#: admin/composer-side.php:873
+msgid "Featured image and excerpt are required."
+msgstr ""
+
+#: admin/composer-side.php:901 admin/composer-side.php:936
+#: admin/composer-side.php:964 admin/composer-side.php:994
+#: admin/composer-side.php:1024
+msgid "Add to Menu"
+msgstr ""
+
+#: admin/composer-side.php:916
+msgid "Small width dropdown"
+msgstr ""
+
+#: admin/composer-side.php:924
+msgid "Background image link"
+msgstr ""
+
+#: admin/composer.php:102
+msgid "Button style"
+msgstr ""
+
+#: admin/composer.php:109
+msgid "Hidden"
+msgstr ""
+
+#: admin/composer.php:113
+msgid "Button size"
+msgstr ""
+
+#: admin/composer.php:122
+msgid "Animated button"
+msgstr ""
+
+#: admin/composer.php:204
+msgid "Add new item"
+msgstr ""
+
+#: admin/composer.php:216
+msgid "Components"
+msgstr ""
+
+#: admin/composer.php:221
+msgid "Title H1-H6"
+msgstr ""
+
+#: admin/composer.php:233
+msgid "Text block"
+msgstr ""
+
+#: admin/composer.php:239
+msgid "Icon list"
+msgstr ""
+
+#: admin/composer.php:245
+msgid "Button"
+msgstr ""
+
+#: admin/composer.php:251
+msgid "WordPress editor"
+msgstr ""
+
+#: admin/composer.php:257
+msgid "Code block"
+msgstr ""
+
+#: admin/composer.php:269
+msgid "Image box"
+msgstr ""
+
+#: admin/composer.php:275
+msgid "Advanced image box"
+msgstr ""
+
+#: admin/composer.php:281
+msgid "Content box"
+msgstr ""
+
+#: admin/composer.php:287
+msgid "Blog box"
+msgstr ""
+
+#: admin/composer.php:293
+msgid "Testimonials box"
+msgstr ""
+
+#: admin/composer.php:299
+msgid "Team box"
+msgstr ""
+
+#: admin/composer.php:305
+msgid "Pricing table"
+msgstr ""
+
+#: admin/composer.php:311
+msgid "Call to action"
+msgstr ""
+
+#: admin/composer.php:317
+msgid "Icon list advanced"
+msgstr ""
+
+#: admin/composer.php:323
+msgid "Text list"
+msgstr ""
+
+#: admin/composer.php:329
+msgid "Icon links"
+msgstr ""
+
+#: admin/composer.php:335
+msgid "Icon box"
+msgstr ""
+
+#: admin/composer.php:341
+msgid "Counter"
+msgstr ""
+
+#: admin/composer.php:347
+msgid "Countdown"
+msgstr ""
+
+#: admin/composer.php:353
+msgid "Progress bar"
+msgstr ""
+
+#: admin/composer.php:359
+msgid "Circle progress bar"
+msgstr ""
+
+#: admin/composer.php:365 admin/composer.php:698
+msgid "Timeline"
+msgstr ""
+
+#: admin/composer.php:371
+msgid "Google map"
+msgstr ""
+
+#: admin/composer.php:377
+msgid "Social feeds"
+msgstr ""
+
+#: admin/composer.php:383
+msgid "Social buttons"
+msgstr ""
+
+#: admin/composer.php:389
+msgid "Quote"
+msgstr ""
+
+#: admin/composer.php:401
+msgid "Separator"
+msgstr ""
+
+#: admin/composer.php:407
+msgid "Table"
+msgstr ""
+
+#: admin/composer.php:413
+msgid "Inner menu"
+msgstr ""
+
+#: admin/composer.php:419
+msgid "Contact form"
+msgstr ""
+
+#: admin/composer.php:440
+msgid "Grid table"
+msgstr ""
+
+#: admin/composer.php:452
+msgid "Image slider"
+msgstr ""
+
+#: admin/composer.php:464
+msgid "Advanced slider"
+msgstr ""
+
+#: admin/composer.php:470
+msgid "Image Coverflow"
+msgstr ""
+
+#: admin/composer.php:476 admin/composer.php:557
+msgid "Coverflow"
+msgstr ""
+
+#: admin/composer.php:482
+msgid "Tabs"
+msgstr ""
+
+#: admin/composer.php:488
+msgid "Collapse"
+msgstr ""
+
+#: admin/composer.php:506 admin/composer.php:539
+msgid "Grid list"
+msgstr ""
+
+#: admin/composer.php:512 admin/composer.php:545
+msgid "Masonry list"
+msgstr ""
+
+#: admin/composer.php:518
+msgid "Album"
+msgstr ""
+
+#: admin/composer.php:524
+msgid "Fixed area"
+msgstr ""
+
+#: admin/composer.php:530
+msgid "Steps"
+msgstr ""
+
+#: admin/composer.php:563
+msgid "Category menu"
+msgstr ""
+
+#: admin/composer.php:569
+msgid "Tag cloud"
+msgstr ""
+
+#: admin/composer.php:575
+msgid "Post informations"
+msgstr ""
+
+#: admin/composer.php:589
+msgid "Column 12"
+msgstr ""
+
+#: admin/composer.php:595
+msgid "Column 10"
+msgstr ""
+
+#: admin/composer.php:601
+msgid "Column 9"
+msgstr ""
+
+#: admin/composer.php:607
+msgid "Column 8"
+msgstr ""
+
+#: admin/composer.php:613
+msgid "Column 7"
+msgstr ""
+
+#: admin/composer.php:619
+msgid "Column 6"
+msgstr ""
+
+#: admin/composer.php:625
+msgid "Column 5"
+msgstr ""
+
+#: admin/composer.php:631
+msgid "Column 4"
+msgstr ""
+
+#: admin/composer.php:637
+msgid "Column 3"
+msgstr ""
+
+#: admin/composer.php:643
+msgid "Column 2"
+msgstr ""
+
+#: admin/composer.php:649
+msgid "Column 1"
+msgstr ""
+
+#: admin/composer.php:653
+msgid "Fullpage"
+msgstr ""
+
+#: admin/composer.php:657
+msgid "Bottom top container"
+msgstr ""
+
+#: admin/composer.php:663
+msgid "Slides"
+msgstr ""
+
+#: admin/composer.php:690
+msgid "Animations engine"
+msgstr ""
+
+#: admin/composer.php:693 admin/composer.php:848
+msgid "Animation speed"
+msgstr ""
+
+#: admin/composer.php:700
+msgid "Active"
+msgstr ""
+
+#: admin/composer.php:704
+msgid "Delay"
+msgstr ""
+
+#: admin/composer.php:710
+msgid "Ascending"
+msgstr ""
+
+#: admin/composer.php:711
+msgid "Descending"
+msgstr ""
+
+#: admin/composer.php:721
+msgid "Fade in"
+msgstr ""
+
+#: admin/composer.php:724
+msgid "Fade left"
+msgstr ""
+
+#: admin/composer.php:727
+msgid "Fade right"
+msgstr ""
+
+#: admin/composer.php:730
+msgid "Fade top"
+msgstr ""
+
+#: admin/composer.php:733
+msgid "Fade bottom"
+msgstr ""
+
+#: admin/composer.php:736
+msgid "Show scale"
+msgstr ""
+
+#: admin/composer.php:739
+msgid "Pulse"
+msgstr ""
+
+#: admin/composer.php:742
+msgid "Pulse fast"
+msgstr ""
+
+#: admin/composer.php:745
+msgid "Pulse horizontal"
+msgstr ""
+
+#: admin/composer.php:748
+msgid "Pulse vertical"
+msgstr ""
+
+#: admin/composer.php:751
+msgid "Slide right from left"
+msgstr ""
+
+#: admin/composer.php:754
+msgid "Slide bottom from top"
+msgstr ""
+
+#: admin/composer.php:762
+msgid "Settings"
+msgstr ""
+
+#: admin/composer.php:796
+msgid "CSS"
+msgstr ""
+
+#: admin/composer.php:800
+msgid "STYLE"
+msgstr ""
+
+#: admin/composer.php:809
+msgid "Flex Slider options"
+msgstr ""
+
+#: admin/composer.php:832
+msgid "Animation Loop"
+msgstr ""
+
+#: admin/composer.php:836
+msgid "Start slide"
+msgstr ""
+
+#: admin/composer.php:840
+msgid "Slideshow"
+msgstr ""
+
+#: admin/composer.php:844
+msgid "Slideshow speed"
+msgstr ""
+
+#: admin/composer.php:852
+msgid "Randomize slides"
+msgstr ""
+
+#: admin/composer.php:856
+msgid "Pause on hover"
+msgstr ""
+
+#: admin/composer.php:860
+msgid "Control navigation"
+msgstr ""
+
+#: admin/composer.php:864
+msgid "Direction arrows"
+msgstr ""
+
+#: admin/composer.php:867
+msgid "Carousel options"
+msgstr ""
+
+#: admin/composer.php:873
+msgid "Items width"
+msgstr ""
+
+#: admin/composer.php:877
+msgid "Items min width"
+msgstr ""
+
+#: admin/composer.php:881
+msgid "Items margins"
+msgstr ""
+
+#: admin/composer.php:885
+msgid "Min items"
+msgstr ""
+
+#: admin/composer.php:889
+msgid "Max items"
+msgstr ""
+
+#: admin/composer.php:893
+msgid "Move"
+msgstr ""
+
+#: admin/composer.php:903 admin/composer.php:947 admin/composer.php:959
+#: admin/other.php:11
+msgid "Search icon"
+msgstr ""
+
+#: admin/composer.php:930
+msgid "Only icon"
+msgstr ""
+
+#: admin/composer.php:932
+msgid "Circle image"
+msgstr ""
+
+#: admin/composer.php:933
+msgid "Circle image icon"
+msgstr ""
+
+#: admin/composer.php:935
+msgid "Square image"
+msgstr ""
+
+#: admin/composer.php:936
+msgid "Square image icon"
+msgstr ""
+
+#: admin/parsers.php:42 admin/parsers.php:72 admin/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: admin/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: admin/parsers.php:84 admin/parsers.php:89 admin/parsers.php:306
+#: admin/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: admin/widgets.php:12
+msgid "A list of categories."
+msgstr ""
+
+#: admin/widgets.php:50 admin/widgets.php:149 admin/widgets.php:209
+msgid "Title:"
+msgstr ""
+
+#: admin/widgets.php:54 admin/widgets.php:153
+msgid "Post Type:"
+msgstr ""
+
+#: admin/widgets.php:72
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: admin/widgets.php:75
+msgid "Recent Post Types"
+msgstr ""
+
+#: admin/widgets.php:84
+msgid "Recent Posts"
+msgstr ""
+
+#: admin/widgets.php:165
+msgid "Style:"
+msgstr ""
+
+#: admin/widgets.php:172
+msgid "Number of posts to show:"
+msgstr ""
+
+#: admin/widgets.php:181
+msgid "A search form for your site."
+msgstr ""
+
+#: admin/widgets.php:195 headers/menu-classic.php:187
+#: headers/menu-classic.php:206 headers/menu-side.php:109
+#: headers/menu-side.php:144 headers/menu-subline.php:58
+#: headers/menu-subline.php:69 headers/menu-top-area.php:30
+msgid "Search for ..."
+msgstr ""
+
+#: admin/widgets.php:197
+msgid "Go"
+msgstr ""
+
+#: components/others.php:661 components/post_types.php:710
+msgid "menu"
+msgstr ""
+
+#: components/post_types.php:523 components/post_types.php:647
+msgid "No "
+msgstr ""
+
+#: components/post_types.php:523 components/post_types.php:647
+msgid " found."
+msgstr ""
+
+#: global-content.php:339
+msgid "Products for category "
+msgstr ""
+
+#: global-content.php:343
+msgid "Products for tag "
+msgstr ""
+
+#: global-content.php:346 index.php:393 index.php:397
+msgid "Shop"
+msgstr ""
+
+#: global-content.php:347
+msgid "Shop's items list"
+msgstr ""
+
+#: global-content.php:351 global-content.php:352
+msgid "Search results for "
+msgstr ""
+
+#: global-content.php:419
+msgid "Read more"
+msgstr ""
+
+#: headers/menu-classic.php:189 headers/menu-classic.php:207
+#: headers/menu-classic.php:209 headers/menu-side.php:111
+#: headers/menu-side.php:146 headers/menu-subline.php:60
+#: headers/menu-subline.php:70 headers/menu-subline.php:72
+#: headers/menu-top-area.php:32
+msgid "GO"
+msgstr ""
+
+#: index.php:172
+msgid "Preview Changes"
+msgstr ""
+
+#: index.php:178
+msgid "Save Changes"
+msgstr ""
+
+#: index.php:330
+msgid "Page settings"
+msgstr ""
+
+#: index.php:359
+msgid "Home"
+msgstr ""
+
+#: index.php:562
+msgid "$"
+msgstr ""
+
+#: index.php:563
+msgid "Subtotal:"
+msgstr ""
+
+#: index.php:566
+msgid "View Cart"
+msgstr ""
+
+#: index.php:567
+msgid "Checkout"
+msgstr ""
+
+#: index.php:606
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: index.php:723
+msgid " archive by author "
+msgstr ""
+
+#: index.php:724 index.php:731 index.php:735
+msgid "All "
+msgstr ""
+
+#: index.php:729
+msgid "category "
+msgstr ""
+
+#: index.php:730
+msgid " archive with "
+msgstr ""
+
+#: index.php:734
+msgid " archive with date "
+msgstr ""
+
+#: index.php:824
+msgid "Posts with category "
+msgstr ""
+
+#: index.php:846
+msgid "Posts with category: "
+msgstr ""
+
+#: index.php:849
+msgid "Lists of posts with category"
+msgstr ""
+
+#: index.php:886
+msgid "List"
+msgstr ""
+
+#: index.php:887
+msgid "Add New List"
+msgstr ""
+
+#: index.php:888
+msgid "Edit List"
+msgstr ""
+
+#: index.php:889
+msgid "No Lists Found"
+msgstr ""
+
+#: index.php:890
+msgid "No Lists Found in Trash"
+msgstr ""
+
+#: index.php:912
+msgid "Add New Item"
+msgstr ""
+
+#: index.php:913
+msgid "Edit Item"
+msgstr ""
+
+#: index.php:914
+msgid "No Items Found"
+msgstr ""
+
+#: index.php:915
+msgid "No Items Found in Trash"
+msgstr ""
+
+#: index.php:1270
+msgid "Woocommerce Shop Sidebar Left"
+msgstr ""
+
+#: index.php:1272 index.php:1281
+msgid "Shop sidebar, enable it on Theme options > List Post Types"
+msgstr ""
+
+#: index.php:1279
+msgid "Woocommerce Shop Sidebar Right"
+msgstr ""
+
+#: index.php:1288
+msgid "Woocommerce Item Sidebar Left"
+msgstr ""
+
+#: index.php:1290 index.php:1299
+msgid "Single product sidebar, enable it on Theme options > List Post Types"
+msgstr ""
+
+#: index.php:1297
+msgid "Woocommerce Item Sidebar Right"
+msgstr ""
+
+#: index.php:1363
+msgid "Copyright Schiocco | All Rights Reserved | Powered by"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Hybrid Composer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wordpress.framework-y.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Page Builder and Framework for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Schiocco"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://schiocco.io/"
+msgstr ""
