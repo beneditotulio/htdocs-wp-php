@@ -1,0 +1,327 @@
+
+.noUi-target, .noUi-target * {
+    -moz-user-select: none;
+    box-sizing: border-box;
+}
+.noUi-target {
+    direction: ltr;
+    position: relative;
+}
+.noUi-base {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.noUi-connect {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.noUi-origin {
+    height: 0;
+    position: absolute;
+    width: 0;
+}
+.noUi-handle {
+    position: relative;
+    z-index: 1;
+}
+.noUi-state-tap .noUi-connect, .noUi-state-tap .noUi-origin {
+    transition: top 0.25s ease 0s, right 0.25s ease 0s, bottom 0.25s ease 0s, left 0.25s ease 0s;
+}
+.noUi-state-drag * {
+    cursor: inherit !important;
+}
+.noUi-handle-touch-area {
+    height: 44px;
+    left: -15px;
+    position: relative;
+    top: -15px;
+    width: 44px;
+}
+.noUi-base, .noUi-handle {
+    transform: translate3d(0px, 0px, 0px);
+}
+.noUi-horizontal {
+    height: 18px;
+}
+.noUi-horizontal .noUi-handle {
+    height: 28px;
+    left: -17px;
+    top: -6px;
+    width: 34px;
+}
+.noUi-vertical {
+    width: 18px;
+}
+.noUi-vertical .noUi-handle {
+    height: 34px;
+    left: -6px;
+    top: -17px;
+    width: 28px;
+}
+.noUi-target {
+    background: #cdcdcd none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.noUi-connect {
+    background: #26a69a none repeat scroll 0 0;
+    transition: background 450ms ease 0s;
+}
+.noUi-draggable {
+    cursor: ew-resize;
+}
+.noUi-vertical .noUi-draggable {
+    cursor: ns-resize;
+}
+.noUi-handle {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    border-radius: 3px;
+    box-shadow: 0 0 1px #fff inset, 0 1px 7px #ebebeb inset, 0 3px 6px -3px #bbb;
+    cursor: default;
+}
+.noUi-handle.ui-state-focus,
+.noUi-handle.ui-state-active,
+.noUi-handle.ui-state-hover {
+    box-shadow: 0 0 1px #fff inset, 0 1px 7px #ddd inset, 0 3px 6px -3px #bbb;
+}
+.noUi-handle::before, .noUi-handle::after {
+    background: #e8e7e6 none repeat scroll 0 0;
+    content: "";
+    display: block;
+    height: 14px;
+    left: 14px;
+    position: absolute;
+    top: 6px;
+    width: 1px;
+}
+.noUi-handle::after {
+    left: 17px;
+}
+.noUi-vertical .noUi-handle::before, .noUi-vertical .noUi-handle::after {
+    height: 1px;
+    left: 6px;
+    top: 14px;
+    width: 14px;
+}
+.noUi-vertical .noUi-handle::after {
+    top: 17px;
+}
+[disabled] .noUi-connect {
+    background: #b8b8b8 none repeat scroll 0 0;
+}
+.noUi-target[disabled], .noUi-handle[disabled], [disabled] .noUi-handle {
+    cursor: not-allowed;
+}
+.noUi-pips, .noUi-pips * {
+    box-sizing: border-box;
+}
+.noUi-pips {
+    color: #999;
+    position: absolute;
+}
+.noUi-value {
+    position: absolute;
+    text-align: center;
+}
+.noUi-value-sub {
+    color: #ccc;
+    font-size: 10px;
+}
+.noUi-marker {
+    background: #ccc none repeat scroll 0 0;
+    position: absolute;
+}
+.noUi-marker-sub {
+    background: #aaa none repeat scroll 0 0;
+}
+.noUi-marker-large {
+    background: #aaa none repeat scroll 0 0;
+}
+.noUi-pips-horizontal {
+    height: 80px;
+    left: 0;
+    padding: 10px 0;
+    top: 100%;
+    width: 100%;
+}
+.noUi-value-horizontal {
+    transform: translate3d(-50%, 50%, 0px);
+}
+.noUi-marker-horizontal.noUi-marker {
+    height: 5px;
+    margin-left: -1px;
+    width: 2px;
+}
+.noUi-marker-horizontal.noUi-marker-sub {
+    height: 10px;
+}
+.noUi-marker-horizontal.noUi-marker-large {
+    height: 15px;
+}
+.noUi-pips-vertical {
+    height: 100%;
+    left: 100%;
+    padding: 0 10px;
+    top: 0;
+}
+.noUi-value-vertical {
+    padding-left: 25px;
+    transform: translate3d(0px, 50%, 0px);
+}
+.noUi-marker-vertical.noUi-marker {
+    height: 2px;
+    margin-top: -1px;
+    width: 5px;
+}
+.noUi-marker-vertical.noUi-marker-sub {
+    width: 10px;
+}
+.noUi-marker-vertical.noUi-marker-large {
+    width: 15px;
+}
+.noUi-tooltip {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: #000;
+    display: block;
+    padding: 5px;
+    position: absolute;
+    text-align: center;
+}
+.noUi-horizontal .noUi-tooltip {
+    bottom: 120%;
+    left: 50%;
+    transform: translate(-50%, 0px);
+}
+.noUi-vertical .noUi-tooltip {
+    right: 120%;
+    top: 50%;
+    transform: translate(0px, -50%);
+}
+.noUi-target {
+    border: 0 none;
+    border-radius: 0;
+}
+.noUi-horizontal {
+    height: 3px;
+}
+.noUi-vertical {
+    height: 100%;
+    width: 3px;
+}
+.noUi-horizontal .noUi-handle, .noUi-vertical .noUi-handle {
+     background-color: transparent;
+    border: medium none;
+    border-radius: 50%;
+    box-shadow: none;
+    height: 15px;
+    left: -5px;
+    top: -6px;
+    width: 15px;
+}
+.noUi-handle::before {
+    content: none;
+}
+.noUi-handle::after {
+    content: none;
+}
+
+.noUi-target .noUi-handle.ui-state-focus,
+.noUi-target .noUi-handle.ui-state-active,
+.noUi-target .noUi-handle.ui-state-hover{
+    height: 3px;
+    left: 0;
+    top: 0;
+    width: 3px;
+}
+
+.noUi-target.noUi-horizontal .noUi-tooltip {
+    border-radius: 50%;
+    height: 33px;
+    left: -3px;
+    position: absolute;
+    top: -9px;
+    transform: scale(0.5) rotate(-45deg);
+    transform-origin: 50% 100% 0;
+    transition: border-radius 0.25s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.25s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    width: 33px;
+}
+.noUi-target.noUi-horizontal .noUi-handle.ui-state-focus .noUi-tooltip, .noUi-target.noUi-horizontal .noUi-handle.ui-state-active .noUi-tooltip, .noUi-target.noUi-horizontal .noUi-handle.ui-state-hover .noUi-tooltip {
+    border-radius: 22px 25px 22px 0;
+    transform: rotate(-45deg) translate(29px, -32px);
+    height: 40px;
+    width: 40px;
+    text-align: center !important;
+    top: -90px !important;
+}
+.noUi-tooltip span {
+    color: #fff;
+    font-size: 12px;
+    left: -1px;
+    opacity: 0;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    transition: opacity 0.25s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    /*letter-spacing: -1px;*/
+}
+.noUi-horizontal .noUi-tooltip span {
+    transform: rotate(45deg);
+}
+.noUi-vertical .noUi-tooltip span {
+    transform: rotate(135deg);
+}
+.noUi-target.noUi-vertical .noUi-tooltip {
+    background-color: #26a69a;
+    border-radius: 50%;
+    height: 30px;
+    left: -2px;
+    position: absolute;
+    top: -17px;
+    transform: scale(0.5) rotate(-45deg);
+    transform-origin: 50% 100% 0;
+    transition: border-radius 0.25s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.25s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    width: 30px;
+}
+.noUi-target.noUi-vertical .noUi-active .noUi-tooltip {
+    border-radius: 15px 15px 15px 0;
+    transform: rotate(-135deg) translate(35px, -10px);
+}
+.noUi-vertical .noUi-tooltip span {
+    color: #fff;
+    font-size: 12px;
+    left: -1px;
+    opacity: 0;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    transform: rotate(135deg);
+    transition: opacity 0.25s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    width: 100%;
+}
+.noUi-horizontal .noUi-handle.ui-state-focus .noUi-tooltip span,
+.noUi-horizontal .noUi-handle.ui-state-active .noUi-tooltip span,
+.noUi-horizontal .noUi-handle.ui-state-hover .noUi-tooltip span{
+    opacity: 1;
+}
+
+
+.noUi-target.noUi-horizontal .noUi-handle.ui-state-hover .noUi-tooltip,
+.noUi-target.noUi-horizontal .noUi-handle.ui-state-active .noUi-tooltip,
+.noUi-target.noUi-horizontal .noUi-handle.ui-state-focus .noUi-tooltip {
+    left: 2px !important;
+	top: 0px !important;
+}
+
