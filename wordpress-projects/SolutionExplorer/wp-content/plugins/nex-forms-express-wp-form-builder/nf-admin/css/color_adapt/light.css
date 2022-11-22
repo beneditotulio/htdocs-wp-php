@@ -1,0 +1,78 @@
+.aa_bg_main{
+	background-color:#EEEEEE !important;
+}
+.aa_bg_sec{
+	background-color:#FFFFFF !important;
+}
+.aa_bg_tri{
+	background-color:#888888 !important;
+}
+.aa_font_color_default{
+	color:#666 !important;
+}
+/* MAIN MENU TEXT LINKS */
+.aa_menu a{
+	color:#666 !important;
+}
+.aa_menu li:hover a{
+	background:#888888 !important;
+	color:#fff !important;
+}
+
+.aa_menu .active a,
+.aa_menu a.active{
+	color:#fff !important;
+	background:#888888 !important;	
+}
+
+/* MAIN MENU ICONS */
+.aa_menu a .fa{
+	color:#999999 !important;
+}
+.aa_menu li:hover a .fa,
+.aa_menu .active a .fa{
+	color:#ddd !important;
+}
+
+
+/* SEC MENU TEXT LINKS */
+.aa_menu .aa_menu_2 li a {
+    color: #888 !important;
+    background: #FFFFFF !important;
+}
+
+.aa_menu .aa_menu_2 li.active a,
+.aa_menu .aa_menu_2 li.active:hover a {
+	background:#888888 !important;
+	color:#fff !important;
+}
+
+.aa_menu .aa_menu_2 li:hover a {
+    color: #444 !important;
+}
+
+.aa_bg_main_input{
+	background:#ccc !important;
+	color:#fff !important;
+}
+.aa_bg_main_input:focus{
+	background-color:#888888 !important;
+	color:#fff !important;
+}
+
+.aa_bg_main_btn{
+	background:#ccc !important;
+	color:#fff !important;
+}
+.aa_bg_main_btn:hover{
+	background-color:#888888 !important;
+	color:#fff !important;
+}
+.aa_bg_main_btn .fa{
+	color:#fff !important;
+}
+.aa_bg_main_btn:hover .fa{
+	color:#fff !important;
+}
+
+
